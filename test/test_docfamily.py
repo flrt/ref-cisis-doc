@@ -10,4 +10,3 @@ for tr in soup.find_all("tr"):
 
         table = list(filter(lambda x: x.name == "table", cell.parents))[0]
         print(table.find_all("th")[0])
-
