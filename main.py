@@ -14,20 +14,17 @@ __license__ = "MIT"
 import argparse
 import logging
 from sync import App
-from easy_atom import helpers
-
 
 def main():
     """
         Main : process arguments and start App
     """
 
-    logger = logging.getLogger("app")
-
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", help="fichier de parametres")
     parser.add_argument("--sync", help="Synchronisation locale", action="store_true")
     parser.add_argument("--info", help="Informations sur la synchronisation", action="store_true")
+    parser.add_argument("--pdf2text", help="Conversion des nouveaux document en pdf", action="store_true")
     parser.add_argument("--updatemap", help="Construit l'image des documents", action="store_true")
 
     parser.add_argument("-t", "--test", help="Test  local,remote")
@@ -37,6 +34,8 @@ def main():
         app = App(args.config)
     else:
         app = App()
+
+    logger = logging.getLogger("app")
 
     if args.test:
         [local, remote] = args.test.split(',')
@@ -68,14 +67,8 @@ def main():
         app.remote_docmap.update_status(missing, obsolete)
         app.save()
 
+    if args.pdf2text:
+        app.pdf2text(missing)
 
 if __name__ == '__main__':
-    loggers = helpers.stdout_logger(
-        [
-            "app",
-            "sync",
-            "documents"
-        ],
-        logging.INFO,
-    )
     main()

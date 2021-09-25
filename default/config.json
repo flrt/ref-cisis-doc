@@ -2,5 +2,7 @@
   "storage" : "data/documents.json",
   "directory_mapping": "default/mapping.json",
   "directory_download": "download",
-  "directory_download_flat": false
+  "directory_download_flat": false,
+  "logdir": "log",
+  "log_level": "INFO"
 }

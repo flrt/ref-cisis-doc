@@ -10,6 +10,15 @@ import requests
 import shutil
 from easy_atom import helpers
 
+import pdfdoc
+
+LOGGERS=[
+            "app",
+            "sync",
+            "documents",
+            "pdfdoc"
+        ]
+LOGGERS_LEVEL = logging.INFO
 
 class App:
     def __init__(self, config_filename=None):
@@ -21,8 +30,24 @@ class App:
         self.remote_docmap = documents.DocumentMap()
         if config_filename:
             self.config = helpers.load_json(config_filename)
+            self.config_logs()
             if "directory_mapping" in self.config:
                 self.docname_mappings = helpers.load_json(self.config["directory_mapping"])
+
+    def config_logs(self):
+        level = LOGGERS_LEVEL
+        try:
+            level = {"INFO":logging.INFO, "WARN":logging.WARNING, "DEBUG":logging.DEBUG} [self.config["log_level"]]
+        except:
+            pass
+        helpers.stdout_logger(LOGGERS, level)
+
+        if "logdir" in self.config:
+            if not os.path.exists(self.config["logdir"]):
+                os.makedirs(self.config["logdir"])
+
+            #helpers.file_logger(os.path.join(self.config["logdir"], "sync.log"), LOGGERS, level)
+
 
     def process_mock(self, local, remote):
         self.remote_docmap.load(remote)
@@ -94,6 +119,8 @@ class App:
             :param url: URL a telecharger
             :param filename: fichier de destination
         """
+        self.logger.info(f"download doc : {filename}")
+
         error = ''
 
         try:
@@ -109,6 +136,7 @@ class App:
         return len(error) == 0, error, filename
 
     def delete_doc(self, filename):
+        self.logger.info(f"delete doc : {filename}")
         dirname = os.path.dirname(filename)
         success, error = True, ''
 
@@ -122,3 +150,13 @@ class App:
             success = False
 
         return success, error, filename
+
+    def pdf2text(self, docs):
+        for doc in list(filter(lambda x: x.upper().endswith('.PDF'), docs)):
+            fn = self.local_filename(doc, self.remote_docmap.documents[doc])
+            pdf = pdfdoc.PdfDocument(fn)
+            pdf.convert_txt()
+            pdf.save_pages()
+
+
+
