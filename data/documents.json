@@ -391,6 +391,34 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf",
         "version": "2021.01"
     },
+    "CI-SIS_VOLET_CONTENUS_CANCER-D2LM_SFD_2021.01_20210927.pdf": {
+        "category": "Volet",
+        "category_title": "CANCER-D2LM - D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie",
+        "category_url": "https://esante.gouv.fr//volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
+        "chapter": "M\u00e9tier",
+        "date": "",
+        "etag": "\"20753a-5ccf7c3387821\"",
+        "family": "M\u00e9tier",
+        "size": "2127162",
+        "status": "new",
+        "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications fonctionnellesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications fonctionnelles",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_SFD_2021.01_20210927.pdf",
+        "version": "2021.01"
+    },
+    "CI-SIS_VOLET_CONTENUS_CANCER-D2LM_STD_2021.01_20210927.pdf": {
+        "category": "Volet",
+        "category_title": "CANCER-D2LM - D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie",
+        "category_url": "https://esante.gouv.fr//volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
+        "chapter": "M\u00e9tier",
+        "date": "",
+        "etag": "\"365046-5ccf7c4ca2c10\"",
+        "family": "M\u00e9tier",
+        "size": "3559494",
+        "status": "new",
+        "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications techniquesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications techniques",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_STD_2021.01_20210927.pdf",
+        "version": "2021.01"
+    },
     "CI-SIS_VOLET_CONTENUS_CANCER-PPS_SFD_2021.01_20210622.pdf": {
         "category": "Volet",
         "category_title": "CANCER-PPS - Programme personnalis\u00e9 de soins en canc\u00e9rologie",
@@ -554,7 +582,7 @@
         "etag": "\"2290f6-5cca59c47cde6\"",
         "family": "M\u00e9tier",
         "size": "2265334",
-        "status": "new",
+        "status": "stable",
         "title": "Volet SDM-MR - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_SDM-MR_SFD_CDA_V2020.02_20210308_0.pdf",
         "version": "2020.02"
@@ -568,7 +596,7 @@
         "etag": "\"332487-5cca59b0eaa13\"",
         "family": "M\u00e9tier",
         "size": "3351687",
-        "status": "new",
+        "status": "stable",
         "title": "Volet SDM-MR - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_SDM-MR_STD_CDA_V2020.02_20210308_0.pdf",
         "version": "2020.02"
@@ -806,7 +834,7 @@
         "etag": "\"1452eb-5ccac5d3a27d4\"",
         "family": "Service",
         "size": "1331947",
-        "status": "new",
+        "status": "stable",
         "title": "Transport d\u2019un document CDA-R2 en HL7 ORU OUL MDM",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/Transport%20d%E2%80%99un%20document%20CDA-R2%20en%20HL7%20ORU%20OUL%20MDM_1.pdf",
         "version": "\u200b1.1"
@@ -1142,7 +1170,7 @@
         "etag": "\"11abcd-5cb4fafe451b6\"",
         "family": "Service",
         "size": "1158093",
-        "status": "new",
+        "status": "stable",
         "title": "CISIS TEC SPECIFICATIONS FONCTIONNELLES PARTAGE DOCUMENTS SANTE V1.0",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_fonctionnelles_partage_documents_sante_v1.0_0.pdf",
         "version": "\u200b1.0"
