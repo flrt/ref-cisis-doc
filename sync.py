@@ -59,6 +59,11 @@ class App:
         if "storage" in self.config and os.path.exists(self.config["storage"]):
             self.local_docmap.load(self.config["storage"])
             self.logger.info(f"Previous document list loaded (from {self.config['storage']}")
+
+        if "archive_maps" in self.config and self.config["archive_maps"]:
+            archive_filename = self.config["storage"].replace(".json", f"_{self.local_docmap.get_date()}.json")
+            helpers.save_json(archive_filename, self.local_docmap.documents)
+
         self.remote_docmap.check_remote()
 
         self.logger.info("Detect newer documents")
@@ -71,19 +76,23 @@ class App:
         obsolete = []
 
         for docid, docdata in self.remote_docmap.documents.items():
-            if docid not in self.local_docmap.documents:
+            if docid != "__meta__" and docid not in self.local_docmap.documents:
                 missing.append(docid)
             else:
                 if docdata['etag'] != self.local_docmap.documents[docid]["etag"]:
                     missing.append(docid)
 
         for docid, docdata in self.local_docmap.documents.items():
-            if docid not in self.remote_docmap.documents:
+            if docid != "__meta__" and docid not in self.remote_docmap.documents:
                 obsolete.append(docid)
 
         return missing, obsolete
 
     def local_filename(self, docid, doc):
+        self.logger.debug(f"doc --> {doc}")
+        if docid == "__meta__":
+            return None
+
         if self.config["directory_download_flat"]:
             return self.config['directory_download']
         else:

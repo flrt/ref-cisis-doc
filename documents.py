@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 
 import logging
+import re
 import requests
 from bs4 import BeautifulSoup
 import bs4
+import datetime
 from easy_atom import helpers
 
 ESANTE_GOUV_URL = "https://esante.gouv.fr"
@@ -62,56 +64,64 @@ class DocumentMap():
                         if reqsubpage.status_code == 200:
                             soup_subpage = BeautifulSoup(reqsubpage.text, "lxml")
                             for tr2 in soup_subpage.find_all("tr"):
-
                                 for current_a in tr2.find_all("a"):
-                                    doc_url = f'{ESANTE_GOUV_URL.strip("/")}/{current_a["href"]}'
-                                    self.logger.debug(f"  href = {doc_url}")
-                                    res_head = requests.head(doc_url)
-                                    doc_etag, doc_size, doc_status, doc_pub, doc_version = None, None, None, None, None
-                                    if res_head.status_code == 200:
-                                        doc_etag = res_head.headers['Etag']
-                                        doc_size = res_head.headers['Content-Length']
+                                    # Fichier  .pdf, .zip, .xlsx
+                                    if re.match('.*[.](pdf|xlsx|zip)$', current_a["href"]):
+                                        doc_url = f'{ESANTE_GOUV_URL.strip("/")}/{current_a["href"]}'
+                                        self.logger.debug(f"  href = {doc_url}")
+                                        res_head = requests.head(doc_url)
+                                        doc_etag, doc_size, doc_status, doc_pub, doc_version = None, None, None, None, None
+                                        if res_head.status_code == 200:
+                                            doc_etag = res_head.headers['Etag']
+                                            doc_size = res_head.headers['Content-Length']
 
-                                    try:
-                                        doc_status = ''.join(tr2.find('td', {'data-title': 'Statut'}).stripped_strings)
-                                    except AttributeError:
-                                        self.logger.debug(f"{doc_url} - aucun statut sur le document")
+                                        try:
+                                            doc_status = ''.join(tr2.find('td', {'data-title': 'Statut'}).stripped_strings)
+                                        except AttributeError:
+                                            self.logger.debug(f"{doc_url} - aucun statut sur le document")
 
-                                    try:
-                                        doc_version = ''.join(
-                                            tr2.find('td', {'data-title': 'Version'}).stripped_strings)
-                                    except AttributeError:
-                                        self.logger.info(f"{doc_url} - aucune date sur le document")
-                                    try:
-                                        doc_pub = ''.join(
-                                            tr2.find('td', {'data-title': 'Publication'}).stripped_strings)
-                                    except AttributeError:
-                                        self.logger.debug(f"{doc_url} - aucune date sur le document")
+                                        try:
+                                            doc_version = ''.join(
+                                                tr2.find('td', {'data-title': 'Version'}).stripped_strings)
+                                        except AttributeError:
+                                            self.logger.info(f"{doc_url} - aucune date sur le document")
+                                        try:
+                                            doc_pub = ''.join(
+                                                tr2.find('td', {'data-title': 'Publication'}).stripped_strings)
+                                        except AttributeError:
+                                            self.logger.debug(f"{doc_url} - aucune date sur le document")
 
-                                    key = doc_url.split('/')[-1]
-                                    self.documents[key] = {"url": doc_url,
-                                                           "category_url": doc_category_url,
-                                                           "category_title": doc_category_title,
-                                                           "category": doc_category,
-                                                           "family": doc_family,
-                                                           "chapter": chapter,
-                                                           "etag": doc_etag,
-                                                           "size": doc_size,
-                                                           "title": ''.join(current_a.stripped_strings),
-                                                           "status": doc_status,
-                                                           "date": doc_pub,
-                                                           "version": doc_version}
-
-
+                                        key = doc_url.split('/')[-1]
+                                        self.documents[key] = {"url": doc_url,
+                                                               "category_url": doc_category_url,
+                                                               "category_title": doc_category_title,
+                                                               "category": doc_category,
+                                                               "family": doc_family,
+                                                               "chapter": chapter,
+                                                               "etag": doc_etag,
+                                                               "size": doc_size,
+                                                               "title": ''.join(current_a.stripped_strings),
+                                                               "status": doc_status,
+                                                               "date": doc_pub,
+                                                               "version": doc_version}
+                                    else:
+                                        self.logger.info(f"Lien non pdf : href [{current_a['href']}]")
         else:
             self.logger.error(f"Error {req.status_code}")
 
     def save(self, filename):
+        self.documents["__meta__"] = {"lastUpdate": datetime.datetime.now().strftime('%Y%m%d-%H%M%S')}
         helpers.save_json(filename, self.documents)
 
     def load(self, filename):
         self.documents.clear()
         self.documents = helpers.load_json(filename)
+
+    def get_date(self):
+        try:
+            return self.documents['__meta__']['lastUpdate']
+        except KeyError:
+            return datetime.datetime.now().strftime('%Y%m%d-%H%M%S')
 
     def summary(self):
         _category = {}

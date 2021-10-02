@@ -1,18 +1,4 @@
 {
-    "ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx": {
-        "category": "Volet",
-        "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
-        "chapter": "M\u00e9tier",
-        "date": "07/06/2021",
-        "etag": "\"508d-5c43c80603b49\"",
-        "family": "M\u00e9tier",
-        "size": "20621",
-        "status": "stable",
-        "title": "ANESTHESIE REA - Guide SFAR Valeurs utilise\u0301es dans les documents CDA - 07/06/2021",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx",
-        "version": "2021.01"
-    },
     "ANS_CI-SIS_Volet-DLU_SFD_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
@@ -124,20 +110,6 @@
         "title": "Prise en charge de l\u2019identifiant national de sant\u00e9 (INS) dans les standards d\u2019interop\u00e9rabilit\u00e9 et les volets du CI-SIS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CISIS-TEC_ANNEXE-INS_1.2_0_0_0.pdf",
         "version": "1.2"
-    },
-    "ANS_Contenu_JDV_v1.81.xlsx": {
-        "category": "Annexe",
-        "category_title": "Vocabulaire et jeux de valeurs",
-        "category_url": "https://esante.gouv.fr//annexe-vocabulaire-et-jeux-de-valeurs",
-        "chapter": "M\u00e9tier",
-        "date": "10/09/2021",
-        "etag": "\"a5483-5cba74957ae09\"",
-        "family": "M\u00e9tier",
-        "size": "676995",
-        "status": "stable",
-        "title": "Jeux de valeurs pour les volets m\u00e9tiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.81.xlsx",
-        "version": "1.81"
     },
     "CI-SIS_ANX_LIENS-CDA-METADONNEES-XDS_V1.5_0.pdf": {
         "category": "Annexe",
@@ -400,7 +372,7 @@
         "etag": "\"20753a-5ccf7c3387821\"",
         "family": "M\u00e9tier",
         "size": "2127162",
-        "status": "new",
+        "status": "stable",
         "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications fonctionnellesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_SFD_2021.01_20210927.pdf",
         "version": "2021.01"
@@ -414,7 +386,7 @@
         "etag": "\"365046-5ccf7c4ca2c10\"",
         "family": "M\u00e9tier",
         "size": "3559494",
-        "status": "new",
+        "status": "stable",
         "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications techniquesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_STD_2021.01_20210927.pdf",
         "version": "2021.01"
@@ -680,7 +652,7 @@
         "etag": "\"534f-5b83dd503ad37\"",
         "family": "Service",
         "size": "21327",
-        "status": "stable",
+        "status": "new",
         "title": "Concertation : CI-SIS - Volet Notifications d'\u00e9v\u00e9nements - Ressources",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_CONFORMITY_RESOURCES_NOTIFICATION_EVENEMENTS_V1.0.zip",
         "version": "1.0"
@@ -838,6 +810,9 @@
         "title": "Transport d\u2019un document CDA-R2 en HL7 ORU OUL MDM",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/Transport%20d%E2%80%99un%20document%20CDA-R2%20en%20HL7%20ORU%20OUL%20MDM_1.pdf",
         "version": "\u200b1.1"
+    },
+    "__meta__": {
+        "lastUpdate": "20211002-164350"
     },
     "ans_cisis-tec_annexe-ins_1.3.pdf": {
         "category": "Annexe",
@@ -1100,7 +1075,7 @@
         "etag": "\"42e6-5a032995b96b1\"",
         "family": "Service",
         "size": "17126",
-        "status": "stable",
+        "status": "new",
         "title": "Concertation CI-SIS : ressources cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_cahier_liaison_v1.0.c.zip",
         "version": "1.0"
@@ -1114,7 +1089,7 @@
         "etag": "\"595c-5a6752b210f4f\"",
         "family": "Service",
         "size": "22876",
-        "status": "stable",
+        "status": "new",
         "title": "\u200bRessources de conformit\u00e9 du Volet Gestion d'agendas partag\u00e9s",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_gestion_agendas_partages_v1.0.zip",
         "version": "1.0"
@@ -1203,19 +1178,19 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_cahier_liaison_v2.1.pdf",
         "version": "2.1"
     },
-    "cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.c_0.pdf": {
+    "cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion du cercle de soins",
         "category_url": "https://esante.gouv.fr//volet-gestion-du-cercle-de-soins",
         "chapter": "Service",
-        "date": "",
-        "etag": "\"22b6da-5be4c409753c6\"",
+        "date": "04/10/2021",
+        "etag": "\"16bdf0-5cd4ae53ebb9b\"",
         "family": "Service",
-        "size": "2275034",
+        "size": "1490416",
         "status": "stable",
         "title": "Sp\u00e9cifications techniques - gestion du cercle de soins",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.c_0.pdf",
-        "version": "1.0.C"
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.pdf",
+        "version": "1.0"
     },
     "cisis-tec_specifications_techniques_partage_documents_sante_mobilite_v2.0.c.pdf": {
         "category": "Volet",
@@ -1240,7 +1215,7 @@
         "etag": "\"b950ae-5cba6e343d86f\"",
         "family": "M\u00e9tier",
         "size": "12144814",
-        "status": "stable",
+        "status": "new",
         "title": "Outil de v\u00e9rification des documents CDA version 2.34Une version de l\u2019outil de v\u00e9rification de la conformit\u00e9 des fichiers aux format CDA R2 permet de v\u00e9rifier la conformit\u00e9 des documents au format CDA R2 selon plusieurs crit\u00e8res :\r\n\u2022\tV\u00e9rification de la conformit\u00e9 CDA,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications fran\u00e7aises (Volet Structuration minimale des documents m\u00e9dicaux),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications fran\u00e7aises des sections et entr\u00e9es IHE (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 des sections et entr\u00e9es sp\u00e9cifiques cr\u00e9\u00e9es par l\u2019ANS pour les volets fran\u00e7ais (Volet Mod\u00e8les de contenus CDA),",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip",
         "version": "2.34"

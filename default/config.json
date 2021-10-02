@@ -4,5 +4,6 @@
   "directory_download": "download",
   "directory_download_flat": false,
   "logdir": "log",
-  "log_level": "INFO"
+  "log_level": "INFO",
+  "archive_maps": true
 }
