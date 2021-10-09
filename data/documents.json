@@ -1,4 +1,18 @@
 {
+    "ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx": {
+        "category": "Volet",
+        "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
+        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "chapter": "M\u00e9tier",
+        "date": "07/06/2021",
+        "etag": "\"508d-5c43c80603b49\"",
+        "family": "M\u00e9tier",
+        "size": "20621",
+        "status": "stable",
+        "title": "ANESTHESIE REA - Guide SFAR Valeurs utilise\u0301es dans les documents CDA - 07/06/2021",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx",
+        "version": "2021.01"
+    },
     "ANS_CI-SIS_Volet-DLU_SFD_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
@@ -110,6 +124,20 @@
         "title": "Prise en charge de l\u2019identifiant national de sant\u00e9 (INS) dans les standards d\u2019interop\u00e9rabilit\u00e9 et les volets du CI-SIS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CISIS-TEC_ANNEXE-INS_1.2_0_0_0.pdf",
         "version": "1.2"
+    },
+    "ANS_Contenu_JDV_v1.82.xlsx": {
+        "category": "Annexe",
+        "category_title": "Vocabulaire et jeux de valeurs",
+        "category_url": "https://esante.gouv.fr//annexe-vocabulaire-et-jeux-de-valeurs",
+        "chapter": "M\u00e9tier",
+        "date": "08/10/2021",
+        "etag": "\"a304c-5cdd2ec4cd0e9\"",
+        "family": "M\u00e9tier",
+        "size": "667724",
+        "status": "new",
+        "title": "Jeux de valeurs pour les volets m\u00e9tiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.82.xlsx",
+        "version": "1.82"
     },
     "CI-SIS_ANX_LIENS-CDA-METADONNEES-XDS_V1.5_0.pdf": {
         "category": "Annexe",
@@ -517,6 +545,20 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf",
         "version": "2021.01"
     },
+    "CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_0.pdf": {
+        "category": "Volet",
+        "category_title": "OPH-BRE - Ophtalmologie - Bilan de r\u00e9fraction",
+        "category_url": "https://esante.gouv.fr//volet-oph-bre",
+        "chapter": "M\u00e9tier",
+        "date": "",
+        "etag": "\"33907f-5cdc2b42cc05b\"",
+        "family": "M\u00e9tier",
+        "size": "3379327",
+        "status": "new",
+        "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications techniques",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_0.pdf",
+        "version": "2021.01"
+    },
     "CI-SIS_VOLET_CONTENUS_PPS-PAERPA_2021.01_20210824.pdf": {
         "category": "Volet",
         "category_title": "PPS-PAERPA - Plan Personnalis\u00e9 de Sant\u00e9 PAERPA",
@@ -652,7 +694,7 @@
         "etag": "\"534f-5b83dd503ad37\"",
         "family": "Service",
         "size": "21327",
-        "status": "new",
+        "status": "stable",
         "title": "Concertation : CI-SIS - Volet Notifications d'\u00e9v\u00e9nements - Ressources",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_CONFORMITY_RESOURCES_NOTIFICATION_EVENEMENTS_V1.0.zip",
         "version": "1.0"
@@ -812,7 +854,7 @@
         "version": "\u200b1.1"
     },
     "__meta__": {
-        "lastUpdate": "20211002-164350"
+        "lastUpdate": "20211008-182336"
     },
     "ans_cisis-tec_annexe-ins_1.3.pdf": {
         "category": "Annexe",
@@ -996,20 +1038,6 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf",
         "version": "2021.01"
     },
-    "ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf": {
-        "category": "Volet",
-        "category_title": "OPH-BRE - Ophtalmologie - Bilan de r\u00e9fraction",
-        "category_url": "https://esante.gouv.fr//volet-oph-bre",
-        "chapter": "M\u00e9tier",
-        "date": "",
-        "etag": "\"317d8f-5cb04aba1d354\"",
-        "family": "M\u00e9tier",
-        "size": "3243407",
-        "status": "stable",
-        "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications techniques",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_std_cda_v2021.01.pdf",
-        "version": "2021.01"
-    },
     "ci_sis_etude_metier_cahier_liaison_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
@@ -1075,7 +1103,7 @@
         "etag": "\"42e6-5a032995b96b1\"",
         "family": "Service",
         "size": "17126",
-        "status": "new",
+        "status": "stable",
         "title": "Concertation CI-SIS : ressources cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_cahier_liaison_v1.0.c.zip",
         "version": "1.0"
@@ -1089,7 +1117,7 @@
         "etag": "\"595c-5a6752b210f4f\"",
         "family": "Service",
         "size": "22876",
-        "status": "new",
+        "status": "stable",
         "title": "\u200bRessources de conformit\u00e9 du Volet Gestion d'agendas partag\u00e9s",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_gestion_agendas_partages_v1.0.zip",
         "version": "1.0"
@@ -1206,18 +1234,18 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_partage_documents_sante_mobilite_v2.0.c.pdf",
         "version": "\u200b2.0.C"
     },
-    "testContenuCDA_20210910_V2.34.zip": {
+    "testContenuCDA_V2.35.zip": {
         "category": "Annexe",
         "category_title": "Outil de v\u00e9rification des documents CDA",
         "category_url": "https://esante.gouv.fr//annexe-outil-de-verification-des-documents-cda",
         "chapter": "M\u00e9tier",
-        "date": "10/09/2021",
-        "etag": "\"b950ae-5cba6e343d86f\"",
+        "date": "08/10/2021",
+        "etag": "\"1c2ff3c-5cdd2bac4175a\"",
         "family": "M\u00e9tier",
-        "size": "12144814",
+        "size": "29556540",
         "status": "new",
-        "title": "Outil de v\u00e9rification des documents CDA version 2.34Une version de l\u2019outil de v\u00e9rification de la conformit\u00e9 des fichiers aux format CDA R2 permet de v\u00e9rifier la conformit\u00e9 des documents au format CDA R2 selon plusieurs crit\u00e8res :\r\n\u2022\tV\u00e9rification de la conformit\u00e9 CDA,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications fran\u00e7aises (Volet Structuration minimale des documents m\u00e9dicaux),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications fran\u00e7aises des sections et entr\u00e9es IHE (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 des sections et entr\u00e9es sp\u00e9cifiques cr\u00e9\u00e9es par l\u2019ANS pour les volets fran\u00e7ais (Volet Mod\u00e8les de contenus CDA),",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20210910_V2.34.zip",
-        "version": "2.34"
+        "title": "Outil de v\u00e9rification des documents CDA version 2.35Une version de l\u2019outil de v\u00e9rification de la conformit\u00e9 des fichiers aux format CDA R2 permet de v\u00e9rifier la conformit\u00e9 des documents au format CDA R2 selon plusieurs crit\u00e8res :\r\n\u2022\tV\u00e9rification de la conformit\u00e9 CDA,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications fran\u00e7aises (Volet Structuration minimale des documents m\u00e9dicaux),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications fran\u00e7aises des sections et entr\u00e9es IHE (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 des sections et entr\u00e9es sp\u00e9cifiques cr\u00e9\u00e9es par l\u2019ANS pour les volets fran\u00e7ais (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification des codes de certaines terminologies.",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_V2.35.zip",
+        "version": "2.35"
     }
 }

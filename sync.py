@@ -12,13 +12,14 @@ from easy_atom import helpers
 
 import pdfdoc
 
-LOGGERS=[
-            "app",
-            "sync",
-            "documents",
-            "pdfdoc"
-        ]
+LOGGERS = [
+    "app",
+    "sync",
+    "documents",
+    "pdfdoc"
+]
 LOGGERS_LEVEL = logging.INFO
+
 
 class App:
     def __init__(self, config_filename=None):
@@ -37,7 +38,7 @@ class App:
     def config_logs(self):
         level = LOGGERS_LEVEL
         try:
-            level = {"INFO":logging.INFO, "WARN":logging.WARNING, "DEBUG":logging.DEBUG} [self.config["log_level"]]
+            level = {"INFO": logging.INFO, "WARN": logging.WARNING, "DEBUG": logging.DEBUG}[self.config["log_level"]]
         except:
             pass
         helpers.stdout_logger(LOGGERS, level)
@@ -46,8 +47,7 @@ class App:
             if not os.path.exists(self.config["logdir"]):
                 os.makedirs(self.config["logdir"])
 
-            #helpers.file_logger(os.path.join(self.config["logdir"], "sync.log"), LOGGERS, level)
-
+            # helpers.file_logger(os.path.join(self.config["logdir"], "sync.log"), LOGGERS, level)
 
     def process_mock(self, local, remote):
         self.remote_docmap.load(remote)
@@ -89,6 +89,10 @@ class App:
         return missing, obsolete
 
     def local_filename(self, docid, doc):
+        """
+        docid: identifiant du document
+        doc:   données du document
+        """
         self.logger.debug(f"doc --> {doc}")
         if docid == "__meta__":
             return None
@@ -166,6 +170,3 @@ class App:
             pdf = pdfdoc.PdfDocument(fn)
             pdf.convert_txt()
             pdf.save_pages()
-
-
-
