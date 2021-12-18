@@ -4,6 +4,9 @@
 import logging
 import re
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
+
 from bs4 import BeautifulSoup
 import bs4
 import datetime
@@ -33,7 +36,17 @@ class DocumentMap():
         :return:
         """
         self.logger.info("Check Remote")
-        req = requests.get(f'{ESANTE_GOUV_URL}/{CISIS_URL}')
+
+        retry_strategy = Retry(
+            total=3,
+            status_forcelist=[429, 500, 502, 503, 504],
+            method_whitelist=["HEAD", "GET", "OPTIONS"]
+        )
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        http = requests.Session()
+        http.mount("https://", adapter)
+
+        req = http.get(f'{ESANTE_GOUV_URL}/{CISIS_URL}')
 
         self.documents.clear()
 
@@ -58,9 +71,9 @@ class DocumentMap():
                         doc_category_url = cell.a["href"]
                         self.logger.debug(f'>>> Check {doc_category_url}')
                         if not doc_category_url.startswith('http'):
-                            doc_category_url = f'{ESANTE_GOUV_URL.strip("/")}/{doc_category_url}'
+                            doc_category_url = f'{ESANTE_GOUV_URL.strip("/")}{doc_category_url}'
 
-                        reqsubpage = requests.get(doc_category_url)
+                        reqsubpage = http.get(doc_category_url)
                         if reqsubpage.status_code == 200:
                             soup_subpage = BeautifulSoup(reqsubpage.text, "lxml")
                             for tr2 in soup_subpage.find_all("tr"):
@@ -69,7 +82,7 @@ class DocumentMap():
                                     if re.match('.*[.](pdf|xlsx|zip)$', current_a["href"]):
                                         doc_url = f'{ESANTE_GOUV_URL.strip("/")}/{current_a["href"]}'
                                         self.logger.debug(f"  href = {doc_url}")
-                                        res_head = requests.head(doc_url)
+                                        res_head = http.head(doc_url)
                                         doc_etag, doc_size, doc_status, doc_pub, doc_version = None, None, None, None, None
                                         if res_head.status_code == 200:
                                             doc_etag = res_head.headers['Etag']
