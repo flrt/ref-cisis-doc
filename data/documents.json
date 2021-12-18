@@ -2,7 +2,7 @@
     "ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx": {
         "category": "Volet",
         "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "category_url": "https://esante.gouv.fr/volet-anesthesie-reanimation",
         "chapter": "M\u00e9tier",
         "date": "07/06/2021",
         "etag": "\"508d-5c43c80603b49\"",
@@ -16,7 +16,7 @@
     "ANS_CI-SIS_Volet-DLU_SFD_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
-        "category_url": "https://esante.gouv.fr//volet-dlu-dossier-de-liaison-durgence",
+        "category_url": "https://esante.gouv.fr/volet-dlu-dossier-de-liaison-durgence",
         "chapter": "M\u00e9tier",
         "date": "19/02/2021",
         "etag": "\"2c22c0-5bbb15e1e9347\"",
@@ -30,7 +30,7 @@
     "ANS_CI-SIS_Volet-DLU_STD_DLU-DLU_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
-        "category_url": "https://esante.gouv.fr//volet-dlu-dossier-de-liaison-durgence",
+        "category_url": "https://esante.gouv.fr/volet-dlu-dossier-de-liaison-durgence",
         "chapter": "M\u00e9tier",
         "date": "19/02/2021",
         "etag": "\"57a221-5bbb1606ec4cd\"",
@@ -44,7 +44,7 @@
     "ANS_CI-SIS_Volet-DLU_STD_DLU-FLUDR_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
-        "category_url": "https://esante.gouv.fr//volet-dlu-dossier-de-liaison-durgence",
+        "category_url": "https://esante.gouv.fr/volet-dlu-dossier-de-liaison-durgence",
         "chapter": "M\u00e9tier",
         "date": "19/02/2021",
         "etag": "\"43e8d9-5bbb163a69724\"",
@@ -58,7 +58,7 @@
     "ANS_CI-SIS_Volet-DLU_STD_DLU-FLUDT_V2021.01.pdf": {
         "category": "Volet",
         "category_title": "DLU - Dossier de liaison d'urgence",
-        "category_url": "https://esante.gouv.fr//volet-dlu-dossier-de-liaison-durgence",
+        "category_url": "https://esante.gouv.fr/volet-dlu-dossier-de-liaison-durgence",
         "chapter": "M\u00e9tier",
         "date": "19/02/2021",
         "etag": "\"3a8e58-5bbb1621544ce\"",
@@ -72,7 +72,7 @@
     "ANS_CI-SIS_Volet-ILD_SFD_V2020.01.pdf": {
         "category": "Volet",
         "category_title": "IDL - Informations de liaison",
-        "category_url": "https://esante.gouv.fr//volet-idl-informations-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-idl-informations-de-liaison",
         "chapter": "M\u00e9tier",
         "date": "04/05/2020",
         "etag": "\"1c85e-5a4d36fd6120a\"",
@@ -86,7 +86,7 @@
     "ANS_CI-SIS_Volet-ILD_STD_LDL-EES_V2020.01.pdf": {
         "category": "Volet",
         "category_title": "IDL - Informations de liaison",
-        "category_url": "https://esante.gouv.fr//volet-idl-informations-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-idl-informations-de-liaison",
         "chapter": "M\u00e9tier",
         "date": "04/05/2020",
         "etag": "\"13dc01-5a4d3777539f7\"",
@@ -100,7 +100,7 @@
     "ANS_CI-SIS_Volet-ILD_STD_LDL-SES_V2020.01.pdf": {
         "category": "Volet",
         "category_title": "IDL - Informations de liaison",
-        "category_url": "https://esante.gouv.fr//volet-idl-informations-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-idl-informations-de-liaison",
         "chapter": "M\u00e9tier",
         "date": "04/05/2020",
         "etag": "\"1e2f31-5a4d3748768df\"",
@@ -114,7 +114,7 @@
     "ANS_CISIS-TEC_ANNEXE-INS_1.2_0_0_0.pdf": {
         "category": "Annexe",
         "category_title": "Prise en Charge de l'INS dans les volets du CI-SIS",
-        "category_url": "https://esante.gouv.fr//annexe-prise-en-charge-de-lins-dans-les-volets-du-ci-sis",
+        "category_url": "https://esante.gouv.fr/annexe-prise-en-charge-de-lins-dans-les-volets-du-ci-sis",
         "chapter": "Commun",
         "date": "F\u00e9vrier 2021",
         "etag": "\"16bb58-5bde3afde4429\"",
@@ -128,7 +128,7 @@
     "ANS_Contenu_JDV_v1.85.xlsx": {
         "category": "Annexe",
         "category_title": "Vocabulaire et jeux de valeurs",
-        "category_url": "https://esante.gouv.fr//annexe-vocabulaire-et-jeux-de-valeurs",
+        "category_url": "https://esante.gouv.fr/annexe-vocabulaire-et-jeux-de-valeurs",
         "chapter": "M\u00e9tier",
         "date": "02/12/2021",
         "etag": "\"a8608-5d22c4730c284\"",
@@ -142,7 +142,7 @@
     "CI-SIS_ANX_LIENS-CDA-METADONNEES-XDS_V1.5_0.pdf": {
         "category": "Annexe",
         "category_title": "Lien entre l'en-t\u00eate CDA et les m\u00e9tadonn\u00e9es XDS",
-        "category_url": "https://esante.gouv.fr//annexe-lien-entre-len-tete-cda-et-les-metadonnees-xds",
+        "category_url": "https://esante.gouv.fr/annexe-lien-entre-len-tete-cda-et-les-metadonnees-xds",
         "chapter": "Service",
         "date": "05/11/2020",
         "etag": "\"8a8d4-5b477ac8cbe26\"",
@@ -156,7 +156,7 @@
     "CI-SIS_CONTENU_VOLET-CSE_V2021.01_20210702.pdf": {
         "category": "Volet",
         "category_title": "CSE - Certificats de Sant\u00e9 de l'Enfant",
-        "category_url": "https://esante.gouv.fr//volet-cse-certificats-de-sante-de-lenfant",
+        "category_url": "https://esante.gouv.fr/volet-cse-certificats-de-sante-de-lenfant",
         "chapter": "M\u00e9tier",
         "date": "02/07/2021",
         "etag": "\"4bcfa7-5c62392cdc573\"",
@@ -170,7 +170,7 @@
     "CI-SIS_CONTENU_VOLET-STRUCTURATION-MINIMALE_V1.10.pdf": {
         "category": "Volet",
         "category_title": "Structuration minimale de Documents de sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-structuration-minimale-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-structuration-minimale-de-documents-de-sante",
         "chapter": "Commun",
         "date": "Juin 2021",
         "etag": "\"3f6f3c-5ce5269c03a65\"",
@@ -184,7 +184,7 @@
     "CI-SIS_CONTENU_VOLET-STRUCTURATION-MINIMALE_V1.8.pdf": {
         "category": "Volet",
         "category_title": "Structuration minimale de Documents de sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-structuration-minimale-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-structuration-minimale-de-documents-de-sante",
         "chapter": "Commun",
         "date": "10/02/2021",
         "etag": "\"498ea9-5bd536ec42de7\"",
@@ -198,7 +198,7 @@
     "CI-SIS_ETUDE_METIER_ACCES_RECOMMANDATIONS_VACCINALES_1.1.pdf": {
         "category": "Volet",
         "category_title": "Acc\u00e8s aux recommandations vaccinales",
-        "category_url": "https://esante.gouv.fr//volet-acces-aux-recommandations-vaccinales",
+        "category_url": "https://esante.gouv.fr/volet-acces-aux-recommandations-vaccinales",
         "chapter": "Service",
         "date": "14/03/2019",
         "etag": "\"b818f-5ce63ed397b85\"",
@@ -212,7 +212,7 @@
     "CI-SIS_ETUDE_METIER_TRACABILITE-DMI_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Tra\u00e7abilit\u00e9 des DMI",
-        "category_url": "https://esante.gouv.fr//volet-tracabilite-des-dmi",
+        "category_url": "https://esante.gouv.fr/volet-tracabilite-des-dmi",
         "chapter": "Service",
         "date": "",
         "etag": "\"2028e3-5ce641a586e30\"",
@@ -226,7 +226,7 @@
     "CI-SIS_ETUDE_NORMES_STANDARDS_GESTION_AGENDAS_PARTAGES_V1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion d'agendas partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-dagenda-partage",
+        "category_url": "https://esante.gouv.fr/volet-gestion-dagenda-partage",
         "chapter": "Service",
         "date": "04/03/2019",
         "etag": "\"8e8ad-5830aa15ddb96\"",
@@ -240,7 +240,7 @@
     "CI-SIS_SERVICE_VOLET-ECHANGE-DOCUMENTS-SANTE_V1.6.pdf": {
         "category": "Volet",
         "category_title": "Echange des Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-echange-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-echange-de-documents-de-sante",
         "chapter": "Service",
         "date": "11/02/2021",
         "etag": "\"e880c-5bc1177e6721f\"",
@@ -254,7 +254,7 @@
     "CI-SIS_SERVICE_VOLET-GESTION-DOSSIER_V1.7.pdf": {
         "category": "Volet",
         "category_title": "Gestion de Dossiers Patient Partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-de-dossiers-patient-partages",
+        "category_url": "https://esante.gouv.fr/volet-gestion-de-dossiers-patient-partages",
         "chapter": "Service",
         "date": "10/02/2021",
         "etag": "\"1c1b92-5bc118713ddf1\"",
@@ -268,7 +268,7 @@
     "CI-SIS_SERVICE_VOLET-PARTAGE-DOCUMENTS-SANTE_V1.10.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "Octobre 2021",
         "etag": "\"3b363f-5cf29803579de\"",
@@ -282,7 +282,7 @@
     "CI-SIS_SERVICE_VOLET-PARTAGE-DOCUMENTS-SANTE_V1.8.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "10/02/2021",
         "etag": "\"3c51e5-5bde383facb1e\"",
@@ -296,7 +296,7 @@
     "CI-SIS_TRANSPORT_VOLET-SYNCHRONE_V1.8.pdf": {
         "category": "Volet",
         "category_title": "Transport synchrone client lourd pour les services en sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-transport-synchrone-pour-client-lourd",
+        "category_url": "https://esante.gouv.fr/volet-transport-synchrone-pour-client-lourd",
         "chapter": "Transport",
         "date": "09/02/2021",
         "etag": "\"1074a3-5ce64234f083a\"",
@@ -310,7 +310,7 @@
     "CI-SIS_VOLET-MODELES-CONTENUS-CDA_V2.7_20211207.pdf": {
         "category": "Volet de r\u00e9f\u00e9rence",
         "category_title": "Mod\u00e8les de contenus CDA",
-        "category_url": "https://esante.gouv.fr//volet-de-reference-modeles-de-contenus-cda",
+        "category_url": "https://esante.gouv.fr/volet-de-reference-modeles-de-contenus-cda",
         "chapter": "M\u00e9tier",
         "date": "07/12/2021",
         "etag": "\"95ae05-5d28f5202efe5\"",
@@ -324,7 +324,7 @@
     "CI-SIS_VOLET_CONTENUS-OPH-CR-RTN_2021.01.pdf": {
         "category": "Volet",
         "category_title": "OPH-CR-RTN - Compte-rendu de r\u00e9tinographie",
-        "category_url": "https://esante.gouv.fr//volet-oph-cr-rtn-compte-rendu-de-retinographie",
+        "category_url": "https://esante.gouv.fr/volet-oph-cr-rtn-compte-rendu-de-retinographie",
         "chapter": "M\u00e9tier",
         "date": "07/11/2021",
         "etag": "\"1c7d40-5d02f73dfa70e\"",
@@ -338,7 +338,7 @@
     "CI-SIS_VOLET_CONTENUS_ANEST-CR-ANEST_SFD_V2021.01_20210607.pdf": {
         "category": "Volet",
         "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "category_url": "https://esante.gouv.fr/volet-anesthesie-reanimation",
         "chapter": "M\u00e9tier",
         "date": "07/06/2021",
         "etag": "\"1976fa-5c43c582173cc\"",
@@ -352,7 +352,7 @@
     "CI-SIS_VOLET_CONTENUS_ANEST-CR-ANEST_STD_CDA_V2021.01_20210621.pdf": {
         "category": "Volet",
         "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "category_url": "https://esante.gouv.fr/volet-anesthesie-reanimation",
         "chapter": "M\u00e9tier",
         "date": "21/06/2021",
         "etag": "\"3cdf3a-5c542582835f6\"",
@@ -366,7 +366,7 @@
     "CI-SIS_VOLET_CONTENUS_ANEST-CR-CPA_SFD_V2021.01_20210607.pdf": {
         "category": "Volet",
         "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "category_url": "https://esante.gouv.fr/volet-anesthesie-reanimation",
         "chapter": "M\u00e9tier",
         "date": "07/06/2021",
         "etag": "\"17dd6d-5c43c6216dc83\"",
@@ -380,7 +380,7 @@
     "CI-SIS_VOLET_CONTENUS_ANEST-CR-CPA_STD_CDA_V2021.01_20210621.pdf": {
         "category": "Volet",
         "category_title": "ANEST \u2013 Anesth\u00e9sie R\u00e9animation",
-        "category_url": "https://esante.gouv.fr//volet-anesthesie-reanimation",
+        "category_url": "https://esante.gouv.fr/volet-anesthesie-reanimation",
         "chapter": "M\u00e9tier",
         "date": "21/06/2021",
         "etag": "\"375ada-5c542549f075c\"",
@@ -394,7 +394,7 @@
     "CI-SIS_VOLET_CONTENUS_AVC_20190403_v2.2.pdf": {
         "category": "Volet",
         "category_title": "AVC - Accident vasculaire c\u00e9r\u00e9bral",
-        "category_url": "https://esante.gouv.fr//volet-avc-accident-vasculaire-cerebral",
+        "category_url": "https://esante.gouv.fr/volet-avc-accident-vasculaire-cerebral",
         "chapter": "M\u00e9tier",
         "date": "03/04/2019",
         "etag": "\"50a1a1-5ca51de9f94b4\"",
@@ -408,7 +408,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "CANCER-CR-GM \u2013 Compte-rendu de g\u00e9n\u00e9tique mol\u00e9culaire",
-        "category_url": "https://esante.gouv.fr//volet-cr-gm-compte-rendu-de-genetique-moleculaire",
+        "category_url": "https://esante.gouv.fr/volet-cr-gm-compte-rendu-de-genetique-moleculaire",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"3d5c30-5cc08eb7c6218\"",
@@ -422,7 +422,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "CANCER-CR-GM \u2013 Compte-rendu de g\u00e9n\u00e9tique mol\u00e9culaire",
-        "category_url": "https://esante.gouv.fr//volet-cr-gm-compte-rendu-de-genetique-moleculaire",
+        "category_url": "https://esante.gouv.fr/volet-cr-gm-compte-rendu-de-genetique-moleculaire",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"59cdf1-5cc08e9e3d035\"",
@@ -436,7 +436,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-D2LM_SFD_2021.01_20211130.pdf": {
         "category": "Volet",
         "category_title": "CANCER-D2LM - D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie",
-        "category_url": "https://esante.gouv.fr//volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
+        "category_url": "https://esante.gouv.fr/volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
         "chapter": "M\u00e9tier",
         "date": "30/11/2021",
         "etag": "\"213f99-5d2046424023b\"",
@@ -450,7 +450,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-D2LM_STD_2021.01_20211130.pdf": {
         "category": "Volet",
         "category_title": "CANCER-D2LM - D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie",
-        "category_url": "https://esante.gouv.fr//volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
+        "category_url": "https://esante.gouv.fr/volet-d2lm-dematerialisation-de-la-seconde-lecture-de-mammographie",
         "chapter": "M\u00e9tier",
         "date": "30/11/2021",
         "etag": "\"336660-5d20466255085\"",
@@ -464,7 +464,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-FRCP_SFD_2021.01_20211011.pdf": {
         "category": "Volet",
         "category_title": "CANCER-FRCP - Fiche de R\u00e9union de Concertation Pluridisciplinaire",
-        "category_url": "https://esante.gouv.fr//volet-frcp-fiche-de-reunion-de-concertation-pluridisciplinaire",
+        "category_url": "https://esante.gouv.fr/volet-frcp-fiche-de-reunion-de-concertation-pluridisciplinaire",
         "chapter": "M\u00e9tier",
         "date": "30/11/2021",
         "etag": "\"262aff-5ce13c9fceb59\"",
@@ -478,7 +478,7 @@
     "CI-SIS_VOLET_CONTENUS_CANCER-FRCP_STD-CDA_2021.01_20211130.pdf": {
         "category": "Volet",
         "category_title": "CANCER-FRCP - Fiche de R\u00e9union de Concertation Pluridisciplinaire",
-        "category_url": "https://esante.gouv.fr//volet-frcp-fiche-de-reunion-de-concertation-pluridisciplinaire",
+        "category_url": "https://esante.gouv.fr/volet-frcp-fiche-de-reunion-de-concertation-pluridisciplinaire",
         "chapter": "M\u00e9tier",
         "date": "30/11/2021",
         "etag": "\"65112a-5d1fd99c067e1\"",
@@ -548,7 +548,7 @@
     "CI-SIS_VOLET_CONTENUS_CR-BIO_2021.01_20210628.pdf": {
         "category": "Volet",
         "category_title": "CR-BIO - Compte-rendu d'Examens de Biologie M\u00e9dicale",
-        "category_url": "https://esante.gouv.fr//volet-cr-bio-compte-rendu-dexamens-de-biologie-medicale",
+        "category_url": "https://esante.gouv.fr/volet-cr-bio-compte-rendu-dexamens-de-biologie-medicale",
         "chapter": "M\u00e9tier",
         "date": "28/06/2021",
         "etag": "\"3a264f-5c5d4684b1be9\"",
@@ -562,7 +562,7 @@
     "CI-SIS_VOLET_CONTENUS_DSBP-BPCO_V1.0_20150917.pdf": {
         "category": "Volet",
         "category_title": "DSBP-BPCO - Dataset de bonnes pratiques BPCO",
-        "category_url": "https://esante.gouv.fr//volet-dsbp-bpco-data-set-de-bonnes-pratiques-bpco",
+        "category_url": "https://esante.gouv.fr/volet-dsbp-bpco-data-set-de-bonnes-pratiques-bpco",
         "chapter": "M\u00e9tier",
         "date": "17/09/2015",
         "etag": "\"2e0510-5ca394d067c04\"",
@@ -576,7 +576,7 @@
     "CI-SIS_VOLET_CONTENUS_F-PRC_V1.4_20180419.pdf": {
         "category": "Volet",
         "category_title": "F-PRC - Fiches Patient \u00e0 risque en cardiologie",
-        "category_url": "https://esante.gouv.fr//volet-f-prc-fiches-patient-risque-en-cardiologie",
+        "category_url": "https://esante.gouv.fr/volet-f-prc-fiches-patient-risque-en-cardiologie",
         "chapter": "M\u00e9tier",
         "date": "19/04/2018",
         "etag": "\"228952-5ca3ae6da3be1\"",
@@ -590,7 +590,7 @@
     "CI-SIS_VOLET_CONTENUS_IMG-ROI_1.3.0.pdf": {
         "category": "Volet",
         "category_title": "IMG-ROI - R\u00e9f\u00e9rences d'Objets d'Imagerie",
-        "category_url": "https://esante.gouv.fr//volet-roi-references-dobjets-dimagerie",
+        "category_url": "https://esante.gouv.fr/volet-roi-references-dobjets-dimagerie",
         "chapter": "M\u00e9tier",
         "date": "15/10/2012",
         "etag": "\"13d231-5c83deac5628d\"",
@@ -604,7 +604,7 @@
     "CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf": {
         "category": "Volet",
         "category_title": "OBP - Obst\u00e9trique et P\u00e9rinatalit\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-obp-obstetrique-et-perinatalite",
+        "category_url": "https://esante.gouv.fr/volet-obp-obstetrique-et-perinatalite",
         "chapter": "M\u00e9tier",
         "date": "13/09/2021",
         "etag": "\"4b0215-5cbde741b1a87\"",
@@ -615,24 +615,38 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf",
         "version": "2021.01"
     },
-    "CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_0.pdf": {
+    "CI-SIS_VOLET_CONTENUS_OPH-BRE_SFD_V2021.01_20211216.pdf": {
         "category": "Volet",
         "category_title": "OPH-BRE - Ophtalmologie - Bilan de r\u00e9fraction",
-        "category_url": "https://esante.gouv.fr//volet-oph-bre",
+        "category_url": "https://esante.gouv.fr/volet-oph-bre",
         "chapter": "M\u00e9tier",
-        "date": "",
-        "etag": "\"33907f-5cdc2b42cc05b\"",
+        "date": "16/12/2021",
+        "etag": "\"1877d4-5d343311925f3\"",
         "family": "M\u00e9tier",
-        "size": "3379327",
+        "size": "1603540",
+        "status": "stable",
+        "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications fonctionnelles",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_SFD_V2021.01_20211216.pdf",
+        "version": "2021.01"
+    },
+    "CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_20211216.pdf": {
+        "category": "Volet",
+        "category_title": "OPH-BRE - Ophtalmologie - Bilan de r\u00e9fraction",
+        "category_url": "https://esante.gouv.fr/volet-oph-bre",
+        "chapter": "M\u00e9tier",
+        "date": "16/12/2021",
+        "etag": "\"33535b-5d3432d8d3086\"",
+        "family": "M\u00e9tier",
+        "size": "3363675",
         "status": "stable",
         "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications techniques",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_0.pdf",
+        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_20211216.pdf",
         "version": "2021.01"
     },
     "CI-SIS_VOLET_CONTENUS_PPS-PAERPA_2021.01_20211201.pdf": {
         "category": "Volet",
         "category_title": "PPS-PAERPA - Plan Personnalis\u00e9 de Sant\u00e9 PAERPA",
-        "category_url": "https://esante.gouv.fr//volet-pps-paerpa-plan-personnalise-de-sante-paerpa",
+        "category_url": "https://esante.gouv.fr/volet-pps-paerpa-plan-personnalise-de-sante-paerpa",
         "chapter": "M\u00e9tier",
         "date": "01/12/2021",
         "etag": "\"2e97ae-5d2188908b670\"",
@@ -646,7 +660,7 @@
     "CI-SIS_VOLET_CONTENUS_RAMA_1.0_20151027_0.pdf": {
         "category": "Volet",
         "category_title": "RAMA - R\u00e8gles d'Activation de M\u00e9mos et d'Alertes",
-        "category_url": "https://esante.gouv.fr//volet-rama-regles-dactivation-de-memos-et-dalertes",
+        "category_url": "https://esante.gouv.fr/volet-rama-regles-dactivation-de-memos-et-dalertes",
         "chapter": "M\u00e9tier",
         "date": "27/10/2015",
         "etag": "\"16dee2-5c859319c0eeb\"",
@@ -660,7 +674,7 @@
     "CI-SIS_VOLET_CONTENUS_SDM-MR_SFD_V2021.01_20211105.pdf": {
         "category": "Volet",
         "category_title": "SDM-MR - Set de donn\u00e9es - Maladies rares",
-        "category_url": "https://esante.gouv.fr//volet-sdm-mr-set-de-donnees-maladies-rares",
+        "category_url": "https://esante.gouv.fr/volet-sdm-mr-set-de-donnees-maladies-rares",
         "chapter": "M\u00e9tier",
         "date": "05/11/2021",
         "etag": "\"226aa4-5d00d2fe5733a\"",
@@ -674,7 +688,7 @@
     "CI-SIS_VOLET_CONTENUS_SDM-MR_STD_CDA_V2021.01_20211105.pdf": {
         "category": "Volet",
         "category_title": "SDM-MR - Set de donn\u00e9es - Maladies rares",
-        "category_url": "https://esante.gouv.fr//volet-sdm-mr-set-de-donnees-maladies-rares",
+        "category_url": "https://esante.gouv.fr/volet-sdm-mr-set-de-donnees-maladies-rares",
         "chapter": "M\u00e9tier",
         "date": "05/11/2021",
         "etag": "\"327fb3-5d00d3249f3e4\"",
@@ -688,7 +702,7 @@
     "CI-SIS_VOLET_CONTENUS_SYNTHESE-MEDICALE_V1.4_20131016.pdf": {
         "category": "Volet",
         "category_title": "VSM - Synth\u00e8se m\u00e9dicale",
-        "category_url": "https://esante.gouv.fr//volet-vsm-synthese-medicale",
+        "category_url": "https://esante.gouv.fr/volet-vsm-synthese-medicale",
         "chapter": "M\u00e9tier",
         "date": "16/10/2013",
         "etag": "\"2168b4-5ca6380b653c4\"",
@@ -702,7 +716,7 @@
     "CI-SIS_VOLET_CONTENUS_TLM_SFD_2021.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "TLM - T\u00e9l\u00e9m\u00e9decine",
-        "category_url": "https://esante.gouv.fr//volet-tlm-telemedecine",
+        "category_url": "https://esante.gouv.fr/volet-tlm-telemedecine",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"26239b-5cac78042d88b\"",
@@ -716,7 +730,7 @@
     "CI-SIS_VOLET_CONTENUS_TLM_STD_CDA_2021.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "TLM - T\u00e9l\u00e9m\u00e9decine",
-        "category_url": "https://esante.gouv.fr//volet-tlm-telemedecine",
+        "category_url": "https://esante.gouv.fr/volet-tlm-telemedecine",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"210827-5cac77e67b7e9\"",
@@ -730,7 +744,7 @@
     "CI-SIS_VOLET_CONTENUS_VAC_SFD_2121.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "VAC - Vaccination",
-        "category_url": "https://esante.gouv.fr//volet-cva-carnet-de-vaccination",
+        "category_url": "https://esante.gouv.fr/volet-cva-carnet-de-vaccination",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"1b3714-5cac2220f0c5b\"",
@@ -744,7 +758,7 @@
     "CI-SIS_VOLET_CONTENUS_VAC_STD_CDA_2021.01_20210830.pdf": {
         "category": "Volet",
         "category_title": "VAC - Vaccination",
-        "category_url": "https://esante.gouv.fr//volet-cva-carnet-de-vaccination",
+        "category_url": "https://esante.gouv.fr/volet-cva-carnet-de-vaccination",
         "chapter": "M\u00e9tier",
         "date": "30/08/2021",
         "etag": "\"296bb9-5cac21f3e6408\"",
@@ -758,7 +772,7 @@
     "CISIS-TEC_CONFORMITY_RESOURCES_NOTIFICATION_EVENEMENTS_V1.0.zip": {
         "category": "Volet",
         "category_title": "Notification d'\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-notification-devenements",
+        "category_url": "https://esante.gouv.fr/volet-notification-devenements",
         "chapter": "Service",
         "date": "04/01/2021",
         "etag": "\"534f-5b83dd503ad37\"",
@@ -772,7 +786,7 @@
     "CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES-GESTION_AGENDAS_PARTAGES_V1.2.pdf": {
         "category": "Volet",
         "category_title": "Gestion d'agendas partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-dagenda-partage",
+        "category_url": "https://esante.gouv.fr/volet-gestion-dagenda-partage",
         "chapter": "Service",
         "date": "05/11/2020",
         "etag": "\"1b103e-5b3a98b3aa6ff\"",
@@ -786,7 +800,7 @@
     "CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES_CAHIER_LIAISON_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "19/08/2020",
         "etag": "\"13ce38-5d16169d78526\"",
@@ -800,7 +814,7 @@
     "CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES_NOTIFICATION_EVENEMENTS_v1.3.pdf": {
         "category": "Volet",
         "category_title": "Notification d'\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-notification-devenements",
+        "category_url": "https://esante.gouv.fr/volet-notification-devenements",
         "chapter": "Service",
         "date": "04/01/2021",
         "etag": "\"f7271-5ce51bb611e0a\"",
@@ -814,7 +828,7 @@
     "CISIS-TEC_SPECIFICATIONS_TECHNIQUES-GESTION_AGENDAS_PARTAGES_V1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion d'agendas partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-dagenda-partage",
+        "category_url": "https://esante.gouv.fr/volet-gestion-dagenda-partage",
         "chapter": "Service",
         "date": "\u200b20/05/2020",
         "etag": "\"295ce1-5a67552ea7445\"",
@@ -828,7 +842,7 @@
     "CISIS-TEC_SPECIFICATIONS_TECHNIQUES_CAHIER_LIAISON_V2.0.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "19/08/2020",
         "etag": "\"18c17a-5adca77150e84\"",
@@ -842,7 +856,7 @@
     "CISIS-TEC_SPECIFICATIONS_TECHNIQUES_NOTIFICATIONS_EVENEMENTS_V2.0.pdf": {
         "category": "Volet",
         "category_title": "Notification d'\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-notification-devenements",
+        "category_url": "https://esante.gouv.fr/volet-notification-devenements",
         "chapter": "Service",
         "date": "04/01/2021",
         "etag": "\"199d0f-5b83dd0cafcde\"",
@@ -856,7 +870,7 @@
     "CISIS-TEC_SPECIFICATIONS_TECHNIQUES_PARTAGE_DOCUMENTS_SANTE_MOBILITE_V1.0.C.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "Avril 2020",
         "etag": "\"14f4c8-5ceda06e7b3d2\"",
@@ -870,7 +884,7 @@
     "CISIS-TEC_SPECIFICATIONS_TECHNIQUES_PARTAGE_DOCUMENTS_SANTE_MOBILITE_V2.0.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "20/10/2021",
         "etag": "\"279180-5ceb5dfb0091d\"",
@@ -884,7 +898,7 @@
     "CI_SIS_ETUDE_NORMES_STANDARDS_CAHIER_LIAISON_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "18/08/2021",
         "etag": "\"751f5-5ce64528de507\"",
@@ -898,7 +912,7 @@
     "CI_SIS_SPECIFICATIONS_TECHNIQUES_ACCES_RECOMMANDATIONS_VACCINALES_V1.0.pdf": {
         "category": "Volet",
         "category_title": "Acc\u00e8s aux recommandations vaccinales",
-        "category_url": "https://esante.gouv.fr//volet-acces-aux-recommandations-vaccinales",
+        "category_url": "https://esante.gouv.fr/volet-acces-aux-recommandations-vaccinales",
         "chapter": "Service",
         "date": "14/03/2019",
         "etag": "\"17268c-5840f955eba24\"",
@@ -912,7 +926,7 @@
     "CI_SIS_SPECIFICATIONS_TECHNIQUES_TRANSPORT_SYNCHRONE_APPLICATIONS_MOBILES_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Transport synchrone pour applications mobiles",
-        "category_url": "https://esante.gouv.fr//services/referentiels/ci-sis/espace-publication/couche-transport",
+        "category_url": "https://esante.gouv.fr/services/referentiels/ci-sis/espace-publication/couche-transport",
         "chapter": "Transport",
         "date": "05/11/2020",
         "etag": "\"9fb68-5ce6430261075\"",
@@ -926,7 +940,7 @@
     "CI_SIS_STANDARDS_ACCES_RECOMMANDATIONS_VACCINALES_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Acc\u00e8s aux recommandations vaccinales",
-        "category_url": "https://esante.gouv.fr//volet-acces-aux-recommandations-vaccinales",
+        "category_url": "https://esante.gouv.fr/volet-acces-aux-recommandations-vaccinales",
         "chapter": "Service",
         "date": "14/03/2019",
         "etag": "\"db6f6-5ce63ff449f4f\"",
@@ -940,7 +954,7 @@
     "CI_SIS_STANDARDS_NOTIFICATION_EVENEMENTS_V1.1.pdf": {
         "category": "Volet",
         "category_title": "Notification d'\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-notification-devenements",
+        "category_url": "https://esante.gouv.fr/volet-notification-devenements",
         "chapter": "Service",
         "date": "27/04/2018",
         "etag": "\"8c7e6-5ce51dac1ec36\"",
@@ -954,7 +968,7 @@
     "Transport%20d%E2%80%99un%20document%20CDA-R2%20en%20HL7%20ORU%20OUL%20MDM_1.pdf": {
         "category": "Volet",
         "category_title": "Transport d\u2019un document CDA-R2 en HL7 ORU OUL MDM",
-        "category_url": "https://esante.gouv.fr//volet-transport-dun-document-cda-r2-en-hl7-oru-oul-mdm",
+        "category_url": "https://esante.gouv.fr/volet-transport-dun-document-cda-r2-en-hl7-oru-oul-mdm",
         "chapter": "Service",
         "date": "02/09/2021",
         "etag": "\"1452eb-5ccac5d3a27d4\"",
@@ -966,12 +980,14 @@
         "version": "\u200b1.1"
     },
     "__meta__": {
-        "lastUpdate": "20211208-173649"
+        "last_update": "20211218-182912",
+        "new_count": 0,
+        "new_documents": []
     },
     "ans_cisis-tec_annexe-ins_1.3.pdf": {
         "category": "Annexe",
         "category_title": "Prise en Charge de l'INS dans les volets du CI-SIS",
-        "category_url": "https://esante.gouv.fr//annexe-prise-en-charge-de-lins-dans-les-volets-du-ci-sis",
+        "category_url": "https://esante.gouv.fr/annexe-prise-en-charge-de-lins-dans-les-volets-du-ci-sis",
         "chapter": "Commun",
         "date": "Juin 2021",
         "etag": "\"fe0eb-5c47a97d345b0\"",
@@ -985,7 +1001,7 @@
     "ci-sis_anx_sources-donnees-professionnels-structures_v1.5_0.pdf": {
         "category": "Annexe",
         "category_title": "Sources des donn\u00e9es personnes et structures",
-        "category_url": "https://esante.gouv.fr//annexe-sources-des-donnees-personnes-et-structures",
+        "category_url": "https://esante.gouv.fr/annexe-sources-des-donnees-personnes-et-structures",
         "chapter": "Commun",
         "date": "05/11/2020",
         "etag": "\"177aca-5cb18d99f1c88\"",
@@ -999,7 +1015,7 @@
     "ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf": {
         "category": "Volet",
         "category_title": "Tra\u00e7abilit\u00e9 d\u2019\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-tracabilite-devenements",
+        "category_url": "https://esante.gouv.fr/volet-tracabilite-devenements",
         "chapter": "Service",
         "date": "10/09/2021",
         "etag": "\"14716d-5cba42dc10df6\"",
@@ -1013,7 +1029,7 @@
     "ci-sis_service_anx-transformation-xds-ebrs-ebrim_v1.5.pdf": {
         "category": "Annexe",
         "category_title": "Transformation des m\u00e9tadonn\u00e9es XDS dans la syntaxe ebRIM-ebRS",
-        "category_url": "https://esante.gouv.fr//annexe-transformation-des-metadonnees-xds-dans-la-syntaxe-ebrim-ebrs",
+        "category_url": "https://esante.gouv.fr/annexe-transformation-des-metadonnees-xds-dans-la-syntaxe-ebrim-ebrs",
         "chapter": "Service",
         "date": "09/02/2021",
         "etag": "\"188b8b-5bc125b5ae193\"",
@@ -1027,7 +1043,7 @@
     "ci-sis_services_volet_recherche_recuperation_connaissances_v1.0.pdf": {
         "category": "Volet",
         "category_title": "RRC - Recherche et R\u00e9cup\u00e9ration de Connaissances",
-        "category_url": "https://esante.gouv.fr//volet-rrc-recherche-et-recuperation-de-connaissances",
+        "category_url": "https://esante.gouv.fr/volet-rrc-recherche-et-recuperation-de-connaissances",
         "chapter": "Service",
         "date": "27/10/2015",
         "etag": "\"1bd246-57ef0a7629074\"",
@@ -1041,7 +1057,7 @@
     "ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf": {
         "category": "Volet",
         "category_title": "Tra\u00e7abilit\u00e9 d\u2019\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-tracabilite-devenements",
+        "category_url": "https://esante.gouv.fr/volet-tracabilite-devenements",
         "chapter": "Service",
         "date": "10/09/2021",
         "etag": "\"7e8ae-5cba42c89badb\"",
@@ -1055,7 +1071,7 @@
     "ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf": {
         "category": "Volet",
         "category_title": "Tra\u00e7abilit\u00e9 d\u2019\u00e9v\u00e9nements",
-        "category_url": "https://esante.gouv.fr//volet-tracabilite-devenements",
+        "category_url": "https://esante.gouv.fr/volet-tracabilite-devenements",
         "chapter": "Service",
         "date": "10/09/2021",
         "etag": "\"1af4b4-5cba428f47e4f\"",
@@ -1066,24 +1082,10 @@
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf",
         "version": "\u200b1.5"
     },
-    "ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf": {
-        "category": "Volet",
-        "category_title": "OPH-BRE - Ophtalmologie - Bilan de r\u00e9fraction",
-        "category_url": "https://esante.gouv.fr//volet-oph-bre",
-        "chapter": "M\u00e9tier",
-        "date": "",
-        "etag": "\"184b8f-5cb04b152006c\"",
-        "family": "M\u00e9tier",
-        "size": "1592207",
-        "status": "stable",
-        "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications fonctionnelles",
-        "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_volet_contenus_oph-bre_sfd_v2021.01.pdf",
-        "version": "2021.01"
-    },
     "ci_sis_etude_metier_cahier_liaison_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "30/01/2018",
         "etag": "\"f9e34-57ef0a763c8f3\"",
@@ -1097,7 +1099,7 @@
     "ci_sis_specifications_techniques_cahier_liaison_v1.1.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "30/01/2018",
         "etag": "\"ecec8-57ef0a7640773\"",
@@ -1111,7 +1113,7 @@
     "cisis-tec_conformity_resources_cahier_liaison_v1.0.c.zip": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "19/08/2020",
         "etag": "\"42e6-5a032995b96b1\"",
@@ -1125,7 +1127,7 @@
     "cisis-tec_conformity_resources_gestion_agendas_partages_v1.0.zip": {
         "category": "Volet",
         "category_title": "Gestion d'agendas partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-dagenda-partage",
+        "category_url": "https://esante.gouv.fr/volet-gestion-dagenda-partage",
         "chapter": "Service",
         "date": "20/05/2020",
         "etag": "\"595c-5a6752b210f4f\"",
@@ -1139,7 +1141,7 @@
     "cisis-tec_etude_normes_standards_cercle_soins_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion du cercle de soins",
-        "category_url": "https://esante.gouv.fr//volet-gestion-du-cercle-de-soins",
+        "category_url": "https://esante.gouv.fr/volet-gestion-du-cercle-de-soins",
         "chapter": "Service",
         "date": "24/03/2021",
         "etag": "\"10096e-5be4c69377167\"",
@@ -1153,7 +1155,7 @@
     "cisis-tec_specifications_fonctionnelles_cercle_soins_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion du cercle de soins",
-        "category_url": "https://esante.gouv.fr//volet-gestion-du-cercle-de-soins",
+        "category_url": "https://esante.gouv.fr/volet-gestion-du-cercle-de-soins",
         "chapter": "Service",
         "date": "24/03/2021",
         "etag": "\"12428b-5be4c62764d30\"",
@@ -1167,7 +1169,7 @@
     "cisis-tec_specifications_fonctionnelles_partage_documents_sante_v1.0.c_0.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "Avril 2020",
         "etag": "\"14445c-5cb4fac8e0e5f\"",
@@ -1181,7 +1183,7 @@
     "cisis-tec_specifications_fonctionnelles_partage_documents_sante_v1.0_0.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "Septembre 2021",
         "etag": "\"11abcd-5cb4fafe451b6\"",
@@ -1195,7 +1197,7 @@
     "cisis-tec_specifications_techniques-gestion_agendas_partages_v1.1.pdf": {
         "category": "Volet",
         "category_title": "Gestion d'agendas partag\u00e9s",
-        "category_url": "https://esante.gouv.fr//volet-gestion-dagenda-partage",
+        "category_url": "https://esante.gouv.fr/volet-gestion-dagenda-partage",
         "chapter": "Service",
         "date": "\u200bJuin 2021",
         "etag": "\"1ad082-5c4baf771ecd3\"",
@@ -1209,7 +1211,7 @@
     "cisis-tec_specifications_techniques_cahier_liaison_v2.1.pdf": {
         "category": "Volet",
         "category_title": "Cahier de liaison",
-        "category_url": "https://esante.gouv.fr//volet-cahier-de-liaison",
+        "category_url": "https://esante.gouv.fr/volet-cahier-de-liaison",
         "chapter": "Service",
         "date": "Juin 2021",
         "etag": "\"e950b-5c4baf46d2cc8\"",
@@ -1223,7 +1225,7 @@
     "cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.pdf": {
         "category": "Volet",
         "category_title": "Gestion du cercle de soins",
-        "category_url": "https://esante.gouv.fr//volet-gestion-du-cercle-de-soins",
+        "category_url": "https://esante.gouv.fr/volet-gestion-du-cercle-de-soins",
         "chapter": "Service",
         "date": "04/10/2021",
         "etag": "\"16bdf0-5cd4ae53ebb9b\"",
@@ -1237,7 +1239,7 @@
     "cisis-tec_specifications_techniques_partage_documents_sante_mobilite_v2.0.c.pdf": {
         "category": "Volet",
         "category_title": "Partage de Documents de Sant\u00e9",
-        "category_url": "https://esante.gouv.fr//volet-partage-de-documents-de-sante",
+        "category_url": "https://esante.gouv.fr/volet-partage-de-documents-de-sante",
         "chapter": "Service",
         "date": "Septembre 2021",
         "etag": "\"281bc5-5ceb6287ef343\"",
@@ -1251,7 +1253,7 @@
     "testContenuCDA_20211202_v2.38.zip": {
         "category": "Annexe",
         "category_title": "Outil de v\u00e9rification des documents CDA",
-        "category_url": "https://esante.gouv.fr//annexe-outil-de-verification-des-documents-cda",
+        "category_url": "https://esante.gouv.fr/annexe-outil-de-verification-des-documents-cda",
         "chapter": "M\u00e9tier",
         "date": "02/12/2021",
         "etag": "\"1bfa9f2-5d229524282d8\"",

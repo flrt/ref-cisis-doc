@@ -123,7 +123,12 @@ class DocumentMap():
             self.logger.error(f"Error {req.status_code}")
 
     def save(self, filename):
-        self.documents["__meta__"] = {"lastUpdate": datetime.datetime.now().strftime('%Y%m%d-%H%M%S')}
+        # nombre de nouveaux documents
+        newdocs=list(filter(lambda x: 'status' in self.documents[x] and self.documents[x]['status'] == "new",
+                            list(self.documents.keys())))
+        self.documents["__meta__"] = {"last_update": datetime.datetime.now().strftime('%Y%m%d-%H%M%S'),
+                                      "new_count": len(newdocs),
+                                      "new_documents": newdocs}
         helpers.save_json(filename, self.documents)
 
     def load(self, filename):
