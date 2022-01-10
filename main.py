@@ -70,7 +70,7 @@ def main():
 
     if args.updatemap or args.sync:
         app.remote_docmap.update_status(missing, obsolete)
-    app.save()
+        app.save()
 
     if args.pdf2text:
         app.pdf2text(missing)
