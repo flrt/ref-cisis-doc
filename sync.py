@@ -9,6 +9,7 @@ import urllib
 import requests
 import shutil
 from easy_atom import helpers
+from easy_atom import action
 
 import pdfdoc
 
@@ -34,6 +35,7 @@ class App:
             self.config_logs()
             if "directory_mapping" in self.config:
                 self.docname_mappings = helpers.load_json(self.config["directory_mapping"])
+        self.ftp_config = None
 
     def config_logs(self):
         level = LOGGERS_LEVEL
@@ -54,7 +56,7 @@ class App:
         self.local_docmap.load(local)
 
     def process(self):
-        self.logger.info('Process')
+        self.logger.info('Process detection...')
 
         if "storage" in self.config and os.path.exists(self.config["storage"]):
             self.local_docmap.load(self.config["storage"])
@@ -66,10 +68,12 @@ class App:
 
         self.remote_docmap.check_remote()
 
-        self.logger.info("Detect newer documents")
-
     def save(self):
         self.remote_docmap.save(self.config["storage"])
+        if self.ftp_config:
+            self.logger.info(f'Upload new documents map : {self.config["storage"]}')
+            act = action.UploadAction(conf_filename=self.ftp_config)
+            act.process([self.config["storage"]])
 
     def diff(self):
         missing = []

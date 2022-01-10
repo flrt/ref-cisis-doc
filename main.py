@@ -13,6 +13,7 @@ __license__ = "MIT"
 
 import argparse
 import logging
+from easy_atom import helpers
 from sync import App
 
 def main():
@@ -26,6 +27,7 @@ def main():
     parser.add_argument("--info", help="Informations sur la synchronisation", action="store_true")
     parser.add_argument("--pdf2text", help="Conversion des nouveaux document en pdf", action="store_true")
     parser.add_argument("--updatemap", help="Construit l'image des documents", action="store_true")
+    parser.add_argument("--ftpconfig", help="configuration FTP pour upload des données, format JSON")
 
     parser.add_argument("-t", "--test", help="Test  local,remote")
 
@@ -42,6 +44,9 @@ def main():
         app.process_mock(local, remote)
     else:
         app.process()
+
+    if args.ftpconfig:
+        app.ftp_config = args.ftpconfig
 
     missing, obsolete = app.diff()
 
@@ -65,10 +70,11 @@ def main():
 
     if args.updatemap or args.sync:
         app.remote_docmap.update_status(missing, obsolete)
-        app.save()
+    app.save()
 
     if args.pdf2text:
         app.pdf2text(missing)
 
 if __name__ == '__main__':
+    loggers = helpers.stdout_logger(['app', 'action', 'sync', 'documents'], logging.DEBUG)
     main()

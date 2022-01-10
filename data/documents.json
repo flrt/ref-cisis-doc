@@ -8,7 +8,7 @@
         "etag": "\"508d-5c43c80603b49\"",
         "family": "M\u00e9tier",
         "size": "20621",
-        "status": "stable",
+        "status": "Concertation",
         "title": "ANESTHESIE REA - Guide SFAR Valeurs utilise\u0301es dans les documents CDA - 07/06/2021",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANESTHESIE-REA_Guide-SFAR-Valeurs-utilis%C3%A9es-dans-les-documents_CDA_20210607.xlsx",
         "version": "2021.01"
@@ -22,7 +22,7 @@
         "etag": "\"2c22c0-5bbb15e1e9347\"",
         "family": "M\u00e9tier",
         "size": "2892480",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications fonctionnelles DLU V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-DLU_SFD_V2021.01.pdf",
         "version": "v2021.01"
@@ -36,7 +36,7 @@
         "etag": "\"57a221-5bbb1606ec4cd\"",
         "family": "M\u00e9tier",
         "size": "5743137",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques DLU-DLU V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-DLU_STD_DLU-DLU_V2021.01.pdf",
         "version": "v2021.01"
@@ -50,7 +50,7 @@
         "etag": "\"43e8d9-5bbb163a69724\"",
         "family": "M\u00e9tier",
         "size": "4450521",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques DLU-FLUDR V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-DLU_STD_DLU-FLUDR_V2021.01.pdf",
         "version": "v2021.01"
@@ -64,7 +64,7 @@
         "etag": "\"3a8e58-5bbb1621544ce\"",
         "family": "M\u00e9tier",
         "size": "3837528",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques DLU-FLUDT V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-DLU_STD_DLU-FLUDT_V2021.01.pdf",
         "version": "v2021.01"
@@ -78,7 +78,7 @@
         "etag": "\"1c85e-5a4d36fd6120a\"",
         "family": "M\u00e9tier",
         "size": "116830",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet IDL - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-ILD_SFD_V2020.01.pdf",
         "version": "2020.01"
@@ -92,7 +92,7 @@
         "etag": "\"13dc01-5a4d3777539f7\"",
         "family": "M\u00e9tier",
         "size": "1301505",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet IDL - Sp\u00e9cifications techniques LDL-EES",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-ILD_STD_LDL-EES_V2020.01.pdf",
         "version": "2020.01"
@@ -106,7 +106,7 @@
         "etag": "\"1e2f31-5a4d3748768df\"",
         "family": "M\u00e9tier",
         "size": "1978161",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet IDL - Sp\u00e9cifications techniques LDL-SES",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CI-SIS_Volet-ILD_STD_LDL-SES_V2020.01.pdf",
         "version": "2020.01"
@@ -120,7 +120,7 @@
         "etag": "\"16bb58-5bde3afde4429\"",
         "family": "Commun",
         "size": "1489752",
-        "status": "stable",
+        "status": null,
         "title": "Prise en charge de l\u2019identifiant national de sant\u00e9 (INS) dans les standards d\u2019interop\u00e9rabilit\u00e9 et les volets du CI-SIS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_CISIS-TEC_ANNEXE-INS_1.2_0_0_0.pdf",
         "version": "1.2"
@@ -134,7 +134,7 @@
         "etag": "\"a8608-5d22c4730c284\"",
         "family": "M\u00e9tier",
         "size": "689672",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Jeux de valeurs pour les volets m\u00e9tiersCI-SIS - Contenus - Vocabulaires et jeux de valeurs",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ANS_Contenu_JDV_v1.85.xlsx",
         "version": "1.85"
@@ -148,7 +148,7 @@
         "etag": "\"8a8d4-5b477ac8cbe26\"",
         "family": "Service",
         "size": "567508",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_ANX_LIENS-CDA-METADONNEES-XDS_V1.5.pdfANNEXE LIENS EN-T\u00caTE CDA M\u00c9TADONN\u00c9ES XDS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_ANX_LIENS-CDA-METADONNEES-XDS_V1.5_0.pdf",
         "version": "1.5"
@@ -162,7 +162,7 @@
         "etag": "\"4bcfa7-5c62392cdc573\"",
         "family": "M\u00e9tier",
         "size": "4968359",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Certificats de Sant\u00e9 de l'EnfantR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Contenus - Volet Certificats de Sant\u00e9 de l'Enfant (CSE)",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_CONTENU_VOLET-CSE_V2021.01_20210702.pdf",
         "version": "V2021.01"
@@ -176,7 +176,7 @@
         "etag": "\"3f6f3c-5ce5269c03a65\"",
         "family": "Commun",
         "size": "4157244",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS CONTENU VOLET STRUCTURATION MINIMALE V1.9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_CONTENU_VOLET-STRUCTURATION-MINIMALE_V1.10.pdf",
         "version": "1.9"
@@ -190,7 +190,7 @@
         "etag": "\"498ea9-5bd536ec42de7\"",
         "family": "Commun",
         "size": "4820649",
-        "status": "stable",
+        "status": null,
         "title": "Volet Structuration minimale de Documents de Sant\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_CONTENU_VOLET-STRUCTURATION-MINIMALE_V1.8.pdf",
         "version": "1.8"
@@ -204,7 +204,7 @@
         "etag": "\"b818f-5ce63ed397b85\"",
         "family": "Service",
         "size": "754063",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS Acc\u00e8s aux recommandations vaccinales \u00e9tude m\u00e9tierCI-SIS - \u00c9tude m\u00e9tier \u2013 Acc\u00e8s aux recommandations vaccinales V1.1",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_ETUDE_METIER_ACCES_RECOMMANDATIONS_VACCINALES_1.1.pdf",
         "version": "1.0"
@@ -218,7 +218,7 @@
         "etag": "\"2028e3-5ce641a586e30\"",
         "family": "Service",
         "size": "2107619",
-        "status": "stable",
+        "status": "traitement des commentaires de concertation",
         "title": "Sp\u00e9cifications fonctionnelles - Tra\u00e7abilit\u00e9 des Dispositifs M\u00e9dicaux Implantables en \u00c9tablissement de sant\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_ETUDE_METIER_TRACABILITE-DMI_V1.1.pdf",
         "version": "0.1"
@@ -232,7 +232,7 @@
         "etag": "\"8e8ad-5830aa15ddb96\"",
         "family": "Service",
         "size": "583853",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Gestion d'agendas partag\u00e9s - Etude des normes et standards",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_ETUDE_NORMES_STANDARDS_GESTION_AGENDAS_PARTAGES_V1.0.pdf",
         "version": "1.0"
@@ -246,7 +246,7 @@
         "etag": "\"e880c-5bc1177e6721f\"",
         "family": "Service",
         "size": "952332",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Echange de Documents de Sant\u00e9Volet Echange de Documents de Sant\u00e9 - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Service",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_SERVICE_VOLET-ECHANGE-DOCUMENTS-SANTE_V1.6.pdf",
         "version": "1.6"
@@ -260,7 +260,7 @@
         "etag": "\"1c1b92-5bc118713ddf1\"",
         "family": "Service",
         "size": "1842066",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Gestion de Dossiers Patient Partag\u00e9sVolet Gestion de dossiers patient partag\u00e9s - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Service",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_SERVICE_VOLET-GESTION-DOSSIER_V1.7.pdf",
         "version": "1.7"
@@ -274,7 +274,7 @@
         "etag": "\"3b363f-5cf29803579de\"",
         "family": "Service",
         "size": "3880511",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS SERVICE VOLET PARTAGE DOCUMENTS SANTE V1.10",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_SERVICE_VOLET-PARTAGE-DOCUMENTS-SANTE_V1.10.pdf",
         "version": "1.10"
@@ -288,7 +288,7 @@
         "etag": "\"3c51e5-5bde383facb1e\"",
         "family": "Service",
         "size": "3953125",
-        "status": "stable",
+        "status": null,
         "title": "Volet Partage de Documents de Sant\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_SERVICE_VOLET-PARTAGE-DOCUMENTS-SANTE_V1.8.pdf",
         "version": "1.8"
@@ -302,7 +302,7 @@
         "etag": "\"1074a3-5ce64234f083a\"",
         "family": "Transport",
         "size": "1078435",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Transport Synchrone pour Client LourdVolet Transport Synchrone pour Client Lourd - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Transport",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_TRANSPORT_VOLET-SYNCHRONE_V1.8.pdf",
         "version": "1.8"
@@ -316,7 +316,7 @@
         "etag": "\"95ae05-5d28f5202efe5\"",
         "family": "M\u00e9tier",
         "size": "9809413",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Mod\u00e8les de contenus CDA",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET-MODELES-CONTENUS-CDA_V2.7_20211207.pdf",
         "version": "2.7"
@@ -330,7 +330,7 @@
         "etag": "\"1c7d40-5d02f73dfa70e\"",
         "family": "M\u00e9tier",
         "size": "1867072",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Ophtalmologie - Compte-rendu de r\u00e9tinographie (OPH-CR-RTN)R\u00e9f\u00e9rentiels - Volet Ophtalmologie - Compte-rendu de r\u00e9tinographie (OPH-CR-RTN)",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS-OPH-CR-RTN_2021.01.pdf",
         "version": "2021.01"
@@ -344,7 +344,7 @@
         "etag": "\"1976fa-5c43c582173cc\"",
         "family": "M\u00e9tier",
         "size": "1668858",
-        "status": "stable",
+        "status": "Concertation",
         "title": "Sp\u00e9cifications fonctionnelles ANEST-CR-ANEST V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_ANEST-CR-ANEST_SFD_V2021.01_20210607.pdf",
         "version": "2021.01"
@@ -358,7 +358,7 @@
         "etag": "\"3cdf3a-5c542582835f6\"",
         "family": "M\u00e9tier",
         "size": "3989306",
-        "status": "stable",
+        "status": "Concertation",
         "title": "Sp\u00e9cifications techniques ANEST-CR-ANEST V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_ANEST-CR-ANEST_STD_CDA_V2021.01_20210621.pdf",
         "version": "2021.01"
@@ -372,7 +372,7 @@
         "etag": "\"17dd6d-5c43c6216dc83\"",
         "family": "M\u00e9tier",
         "size": "1564013",
-        "status": "stable",
+        "status": "Concertation",
         "title": "Sp\u00e9cifications fonctionnelles ANEST-CR-CPA V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_ANEST-CR-CPA_SFD_V2021.01_20210607.pdf",
         "version": "2021.01"
@@ -386,7 +386,7 @@
         "etag": "\"375ada-5c542549f075c\"",
         "family": "M\u00e9tier",
         "size": "3627738",
-        "status": "stable",
+        "status": "Concertation",
         "title": "Sp\u00e9cifications techniques ANEST-CR-CPA V2021.01",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_ANEST-CR-CPA_STD_CDA_V2021.01_20210621.pdf",
         "version": "2021.01"
@@ -400,7 +400,7 @@
         "etag": "\"50a1a1-5ca51de9f94b4\"",
         "family": "M\u00e9tier",
         "size": "5284257",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Accident Vasculaire C\u00e9r\u00e9bral (AVC)R\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Contenus - Volet Accident Vasculaire C\u00e9r\u00e9bral (AVC)",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_AVC_20190403_v2.2.pdf",
         "version": "2.2"
@@ -414,7 +414,7 @@
         "etag": "\"3d5c30-5cc08eb7c6218\"",
         "family": "M\u00e9tier",
         "size": "4021296",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_SFD_V2021.01_20210830.pdf",
         "version": "2021.01"
@@ -428,7 +428,7 @@
         "etag": "\"59cdf1-5cc08e9e3d035\"",
         "family": "M\u00e9tier",
         "size": "5885425",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-CR-GM_STD-CDA_V2021.01_20210830.pdf",
         "version": "2021.01"
@@ -442,7 +442,7 @@
         "etag": "\"213f99-5d2046424023b\"",
         "family": "M\u00e9tier",
         "size": "2178969",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications fonctionnellesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_SFD_2021.01_20211130.pdf",
         "version": "2021.01"
@@ -456,7 +456,7 @@
         "etag": "\"336660-5d20466255085\"",
         "family": "M\u00e9tier",
         "size": "3368544",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie D2LM sp\u00e9cifications techniquesR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet D\u00e9mat\u00e9rialisation de la seconde lecture de mammographie (D2LM) - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-D2LM_STD_2021.01_20211130.pdf",
         "version": "2021.01"
@@ -470,7 +470,7 @@
         "etag": "\"262aff-5ce13c9fceb59\"",
         "family": "M\u00e9tier",
         "size": "2501375",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-FRCP_SFD_2021.01_20211011",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-FRCP_SFD_2021.01_20211011.pdf",
         "version": "2021.01"
@@ -484,7 +484,7 @@
         "etag": "\"65112a-5d1fd99c067e1\"",
         "family": "M\u00e9tier",
         "size": "6623530",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-FRCP_STD-CDA_2021.01_20211011",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-FRCP_STD-CDA_2021.01_20211130.pdf",
         "version": "2021.01"
@@ -498,7 +498,7 @@
         "etag": "\"2918ec-5ceaf8857f007\"",
         "family": "M\u00e9tier",
         "size": "2693356",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-PPS_SFD_2021.01_20211019",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-PPS_SFD_2021.01_20211019.pdf",
         "version": "2021.01"
@@ -512,7 +512,7 @@
         "etag": "\"3f758f-5cf30a2a6f29f\"",
         "family": "M\u00e9tier",
         "size": "4158863",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS_VOLET_CONTENUS_CANCER-PPS_STD-CDA_2021.01_20211025",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CANCER-PPS_STD-CDA_2021.01_20211025.pdf",
         "version": "2021.01"
@@ -526,7 +526,7 @@
         "etag": "\"1fbee7-5caebb3fea931\"",
         "family": "M\u00e9tier",
         "size": "2080487",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CNAM-HR_SFD_2020.01_20200518.pdf",
         "version": "2020.01"
@@ -540,7 +540,7 @@
         "etag": "\"2cc036-5caebb6927f34\"",
         "family": "M\u00e9tier",
         "size": "2932790",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CNAM-HR_STD_CDA_2020.01_20200518.pdf",
         "version": "2020.01"
@@ -554,7 +554,7 @@
         "etag": "\"3a264f-5c5d4684b1be9\"",
         "family": "M\u00e9tier",
         "size": "3810895",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques - Volet Compte-rendu d\u2019examens de biologie me\u0301dicale",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_CR-BIO_2021.01_20210628.pdf",
         "version": "2021.01"
@@ -568,7 +568,7 @@
         "etag": "\"2e0510-5ca394d067c04\"",
         "family": "M\u00e9tier",
         "size": "3015952",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Dataset de bonnes pratiques BPCOR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet Dataset de bonnes pratiques BPCO (DSBP BPCO)  - Sp\u00e9cifications fonctionnelles et techniques - 17 septembre 2015",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_DSBP-BPCO_V1.0_20150917.pdf",
         "version": "1.0"
@@ -582,7 +582,7 @@
         "etag": "\"228952-5ca3ae6da3be1\"",
         "family": "M\u00e9tier",
         "size": "2263378",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Fiches Patient \u00e0 risque en cardiologie F-PRC V1.4R\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche Contenus - Volet Fiches Patient \u00e0 risque en cardiologie (F-PRC) - 19 avril 2018",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_F-PRC_V1.4_20180419.pdf",
         "version": "1.4"
@@ -596,7 +596,7 @@
         "etag": "\"13d231-5c83deac5628d\"",
         "family": "M\u00e9tier",
         "size": "1298993",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet R\u00e9f\u00e9rences d'objets d'imagerieCadre d\u2019Interop\u00e9rabilit\u00e9 des SIS - Couche Contenus - Volet R\u00e9f\u00e9rences d\u2019objets d\u2019imagerie",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_IMG-ROI_1.3.0.pdf",
         "version": "1.3.0"
@@ -610,7 +610,7 @@
         "etag": "\"4b0215-5cbde741b1a87\"",
         "family": "M\u00e9tier",
         "size": "4915733",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Obst\u00e9trique et P\u00e9rinatalit\u00e9 OBPR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet Obst\u00e9trique et P\u00e9rinatalit\u00e9 (OBP)",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OBP_2021.01_20210913.pdf",
         "version": "2021.01"
@@ -624,7 +624,7 @@
         "etag": "\"1877d4-5d343311925f3\"",
         "family": "M\u00e9tier",
         "size": "1603540",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_SFD_V2021.01_20211216.pdf",
         "version": "2021.01"
@@ -638,7 +638,7 @@
         "etag": "\"33535b-5d3432d8d3086\"",
         "family": "M\u00e9tier",
         "size": "3363675",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Ophtalmologie - Bilan de r\u00e9fraction - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_OPH-BRE_STD_CDA_V2021.01_20211216.pdf",
         "version": "2021.01"
@@ -652,7 +652,7 @@
         "etag": "\"2e97ae-5d2188908b670\"",
         "family": "M\u00e9tier",
         "size": "3053486",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Plan Personnalis\u00e9 de Sant\u00e9 PAERPAR\u00e9f\u00e9rentiels - Cadre d\u2019interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Volet Plan Personnalis\u00e9 de Sant\u00e9 PAERPA (PPS-PAERPA_2021.01)",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_PPS-PAERPA_2021.01_20211201.pdf",
         "version": "2021.01"
@@ -666,7 +666,7 @@
         "etag": "\"16dee2-5c859319c0eeb\"",
         "family": "M\u00e9tier",
         "size": "1498850",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet R\u00e8gles d'activation de m\u00e9mos et d'alertes V1.0R\u00e9f\u00e9rentiels - Volet R\u00e8gles d'activation de m\u00e9mos et d'alertes - Cadre d'interop\u00e9rabilit\u00e9 des SIS - Couche contenus - Octobre 2015",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_RAMA_1.0_20151027_0.pdf",
         "version": "1.0"
@@ -680,7 +680,7 @@
         "etag": "\"226aa4-5d00d2fe5733a\"",
         "family": "M\u00e9tier",
         "size": "2255524",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet SDM-MR - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_SDM-MR_SFD_V2021.01_20211105.pdf",
         "version": "2021.01"
@@ -694,7 +694,7 @@
         "etag": "\"327fb3-5d00d3249f3e4\"",
         "family": "M\u00e9tier",
         "size": "3309491",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet SDM-MR - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_SDM-MR_STD_CDA_V2021.01_20211105.pdf",
         "version": "2021.01"
@@ -708,7 +708,7 @@
         "etag": "\"2168b4-5ca6380b653c4\"",
         "family": "M\u00e9tier",
         "size": "2189492",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Synth\u00e8se m\u00e9dicale VSM",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_SYNTHESE-MEDICALE_V1.4_20131016.pdf",
         "version": "1.4"
@@ -722,7 +722,7 @@
         "etag": "\"26239b-5cac78042d88b\"",
         "family": "M\u00e9tier",
         "size": "2499483",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet TLM - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_TLM_SFD_2021.01_20210830.pdf",
         "version": "2021.01"
@@ -736,7 +736,7 @@
         "etag": "\"210827-5cac77e67b7e9\"",
         "family": "M\u00e9tier",
         "size": "2164775",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet TLM - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_TLM_STD_CDA_2021.01_20210830.pdf",
         "version": "2021.01"
@@ -750,7 +750,7 @@
         "etag": "\"1b3714-5cac2220f0c5b\"",
         "family": "M\u00e9tier",
         "size": "1783572",
-        "status": "stable",
+        "status": "Valide",
         "title": "CI-SIS VOLET CONTENUS VAC SFD 2121.01_20210830",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_VAC_SFD_2121.01_20210830.pdf",
         "version": "2021.01"
@@ -764,7 +764,7 @@
         "etag": "\"296bb9-5cac21f3e6408\"",
         "family": "M\u00e9tier",
         "size": "2714553",
-        "status": "stable",
+        "status": "Valide",
         "title": "CI-SIS VOLET CONTENUS VAC STD CDA 2021.01_20210830",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI-SIS_VOLET_CONTENUS_VAC_STD_CDA_2021.01_20210830.pdf",
         "version": "2021.01"
@@ -778,7 +778,7 @@
         "etag": "\"534f-5b83dd503ad37\"",
         "family": "Service",
         "size": "21327",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Concertation : CI-SIS - Volet Notifications d'\u00e9v\u00e9nements - Ressources",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_CONFORMITY_RESOURCES_NOTIFICATION_EVENEMENTS_V1.0.zip",
         "version": "1.0"
@@ -792,7 +792,7 @@
         "etag": "\"1b103e-5b3a98b3aa6ff\"",
         "family": "Service",
         "size": "1773630",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Gestion d\u2019agendas partag\u00e9s - Sp\u00e9cifications fonctionnellesVolet Gestion d\u2019agendas partag\u00e9s\r\nCI-SIS - Sp\u00e9cifications fonctionnelles",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES-GESTION_AGENDAS_PARTAGES_V1.2.pdf",
         "version": "1.2"
@@ -806,7 +806,7 @@
         "etag": "\"13ce38-5d16169d78526\"",
         "family": "Service",
         "size": "1297976",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Concertation CI-SIS : Sp\u00e9cifications fonctionnelles du cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES_CAHIER_LIAISON_V1.1.pdf",
         "version": "1.1"
@@ -820,7 +820,7 @@
         "etag": "\"f7271-5ce51bb611e0a\"",
         "family": "Service",
         "size": "1012337",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Etude Notification d'\u00e9v\u00e9nements \u00e9tude m\u00e9tierVolet Notification d\u2019\u00e9v\u00e9nements - Sp\u00e9cifications fonctionnelles - Version 1.3",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_FONCTIONNELLES_NOTIFICATION_EVENEMENTS_v1.3.pdf",
         "version": "1.2"
@@ -834,7 +834,7 @@
         "etag": "\"295ce1-5a67552ea7445\"",
         "family": "Service",
         "size": "2710753",
-        "status": "stable",
+        "status": null,
         "title": "Volet Gestion d'agendas partag\u00e9s - Sp\u00e9cifications d'interop\u00e9rabilit\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_TECHNIQUES-GESTION_AGENDAS_PARTAGES_V1.0.pdf",
         "version": "1.0"
@@ -848,7 +848,7 @@
         "etag": "\"18c17a-5adca77150e84\"",
         "family": "Service",
         "size": "1622394",
-        "status": "stable",
+        "status": null,
         "title": "Concertation CI-SIS : Sp\u00e9cifications techniques du cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_TECHNIQUES_CAHIER_LIAISON_V2.0.pdf",
         "version": "2.0"
@@ -862,7 +862,7 @@
         "etag": "\"199d0f-5b83dd0cafcde\"",
         "family": "Service",
         "size": "1678607",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Notification d'\u00e9v\u00e9nements sp\u00e9cifications techniquesCI-SIS Sp\u00e9cifications techniques \u2013 Notification d\u2019\u00e9v\u00e9nements",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_TECHNIQUES_NOTIFICATIONS_EVENEMENTS_V2.0.pdf",
         "version": "2.0"
@@ -876,7 +876,7 @@
         "etag": "\"14f4c8-5ceda06e7b3d2\"",
         "family": "Service",
         "size": "1373384",
-        "status": "stable",
+        "status": null,
         "title": "CI-SIS Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_TECHNIQUES_PARTAGE_DOCUMENTS_SANTE_MOBILITE_V1.0.C.pdf",
         "version": "1.0.C"
@@ -890,7 +890,7 @@
         "etag": "\"279180-5ceb5dfb0091d\"",
         "family": "Service",
         "size": "2593152",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "CISIS TEC SPECIFICATIONS TECHNIQUES PARTAGE DOCUMENTS SANTE MOBILITE V2.0",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CISIS-TEC_SPECIFICATIONS_TECHNIQUES_PARTAGE_DOCUMENTS_SANTE_MOBILITE_V2.0.pdf",
         "version": "\u200b2.0"
@@ -904,7 +904,7 @@
         "etag": "\"751f5-5ce64528de507\"",
         "family": "Service",
         "size": "479733",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Cahier de liaison - CI-SIS Etude des normes et standards",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI_SIS_ETUDE_NORMES_STANDARDS_CAHIER_LIAISON_V1.1.pdf",
         "version": "1.1"
@@ -918,7 +918,7 @@
         "etag": "\"17268c-5840f955eba24\"",
         "family": "Service",
         "size": "1517196",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS Acc\u00e8s aux recommandations vaccinales sp\u00e9cifications techniquesCI-SIS - Acc\u00e8s aux recommandations vaccinales - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI_SIS_SPECIFICATIONS_TECHNIQUES_ACCES_RECOMMANDATIONS_VACCINALES_V1.0.pdf",
         "version": "1.0"
@@ -932,7 +932,7 @@
         "etag": "\"9fb68-5ce6430261075\"",
         "family": "Transport",
         "size": "654184",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Transport synchrone pour applications mobilesVolet Transport synchrone pour applications mobiles CI-SIS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI_SIS_SPECIFICATIONS_TECHNIQUES_TRANSPORT_SYNCHRONE_APPLICATIONS_MOBILES_V1.1.pdf",
         "version": "1.1"
@@ -946,7 +946,7 @@
         "etag": "\"db6f6-5ce63ff449f4f\"",
         "family": "Service",
         "size": "898806",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CI-SIS Acc\u00e8s aux recommandations vaccinales \u00e9tude m\u00e9tier",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI_SIS_STANDARDS_ACCES_RECOMMANDATIONS_VACCINALES_V1.1.pdf",
         "version": "1.0"
@@ -960,7 +960,7 @@
         "etag": "\"8c7e6-5ce51dac1ec36\"",
         "family": "Service",
         "size": "575462",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Notification d'\u00e9v\u00e9nements normes et standardsCI-SIS - \u00c9tude des normes et standards \u2013 Notification d\u2019\u00e9v\u00e8nements - Octobre 2021",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/CI_SIS_STANDARDS_NOTIFICATION_EVENEMENTS_V1.1.pdf",
         "version": "1.0"
@@ -974,13 +974,13 @@
         "etag": "\"1452eb-5ccac5d3a27d4\"",
         "family": "Service",
         "size": "1331947",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "Transport d\u2019un document CDA-R2 en HL7 ORU OUL MDM",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/Transport%20d%E2%80%99un%20document%20CDA-R2%20en%20HL7%20ORU%20OUL%20MDM_1.pdf",
         "version": "\u200b1.1"
     },
     "__meta__": {
-        "last_update": "20211218-182912",
+        "last_update": "20220110-183347",
         "new_count": 0,
         "new_documents": []
     },
@@ -993,7 +993,7 @@
         "etag": "\"fe0eb-5c47a97d345b0\"",
         "family": "Commun",
         "size": "1040619",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "ANS CISIS TEC ANNEXE INS 1.3",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ans_cisis-tec_annexe-ins_1.3.pdf",
         "version": "1.3"
@@ -1007,7 +1007,7 @@
         "etag": "\"177aca-5cb18d99f1c88\"",
         "family": "Commun",
         "size": "1538762",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Annexe Transverse \u2013 Source des donn\u00e9es m\u00e9tier pour les professionnels et les structures",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_anx_sources-donnees-professionnels-structures_v1.5_0.pdf",
         "version": "1.5"
@@ -1021,7 +1021,7 @@
         "etag": "\"14716d-5cba42dc10df6\"",
         "family": "Service",
         "size": "1339757",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "Volet : g\u00e9n\u00e9ricisation \u2013 gestion des traces Etude des normes et standards",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_etude_normes_standards_genericisation_gestion_traces-v1.2_0.pdf",
         "version": "\u200b1.2"
@@ -1035,7 +1035,7 @@
         "etag": "\"188b8b-5bc125b5ae193\"",
         "family": "Service",
         "size": "1608587",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Annexe Transformation des m\u00e9tadonn\u00e9es XDS dans la syntaxe ebRIM-ebRS",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_service_anx-transformation-xds-ebrs-ebrim_v1.5.pdf",
         "version": "1.5"
@@ -1049,7 +1049,7 @@
         "etag": "\"1bd246-57ef0a7629074\"",
         "family": "Service",
         "size": "1823302",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Volet Recherche et R\u00e9cup\u00e9ration de ConnaissancesR\u00e9f\u00e9rentiels - Volet Recherche et R\u00e9cup\u00e9ration de Connaissances - Format d'interrogation des bases de connaissances et du retour de l'information - Cadre d'interop\u00e9rabilit\u00e9 des SIS - Couche services",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_services_volet_recherche_recuperation_connaissances_v1.0.pdf",
         "version": "1.0"
@@ -1063,7 +1063,7 @@
         "etag": "\"7e8ae-5cba42c89badb\"",
         "family": "Service",
         "size": "518318",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "Gestion de traces Sp\u00e9cifications fonctionnelles des \u00e9changes",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_fonctionnelles_genericisation_gestion_traces-v1.4.pdf",
         "version": "\u200b1.4"
@@ -1077,7 +1077,7 @@
         "etag": "\"1af4b4-5cba428f47e4f\"",
         "family": "Service",
         "size": "1766580",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "Volet G\u00e9n\u00e9ricisation : gestion des traces - Sp\u00e9cifications techniques",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci-sis_specifications_techniques_genericisation_gestion_traces-v1.5.pdf",
         "version": "\u200b1.5"
@@ -1091,7 +1091,7 @@
         "etag": "\"f9e34-57ef0a763c8f3\"",
         "family": "Service",
         "size": "1023540",
-        "status": "stable",
+        "status": null,
         "title": "ci_sis_etude_metier_cahier_liaison_v1.0.pdfCI-SIS - \u00c9tude m\u00e9tier \u2013 Cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci_sis_etude_metier_cahier_liaison_v1.0.pdf",
         "version": "1.0"
@@ -1105,7 +1105,7 @@
         "etag": "\"ecec8-57ef0a7640773\"",
         "family": "Service",
         "size": "970440",
-        "status": "stable",
+        "status": null,
         "title": "Volet Cahier de liaison sp\u00e9cifications techniquesCI-SIS - Sp\u00e9cifications techniques \u2013 Cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/ci_sis_specifications_techniques_cahier_liaison_v1.1.pdf",
         "version": "1.1"
@@ -1119,7 +1119,7 @@
         "etag": "\"42e6-5a032995b96b1\"",
         "family": "Service",
         "size": "17126",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Concertation CI-SIS : ressources cahier de liaison",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_cahier_liaison_v1.0.c.zip",
         "version": "1.0"
@@ -1133,7 +1133,7 @@
         "etag": "\"595c-5a6752b210f4f\"",
         "family": "Service",
         "size": "22876",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "\u200bRessources de conformit\u00e9 du Volet Gestion d'agendas partag\u00e9s",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_conformity_resources_gestion_agendas_partages_v1.0.zip",
         "version": "1.0"
@@ -1147,7 +1147,7 @@
         "etag": "\"10096e-5be4c69377167\"",
         "family": "Service",
         "size": "1050990",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Etude des normes et standards - Gestion du cercle de soins",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_etude_normes_standards_cercle_soins_v1.0.pdf",
         "version": "1.0"
@@ -1161,7 +1161,7 @@
         "etag": "\"12428b-5be4c62764d30\"",
         "family": "Service",
         "size": "1196683",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications fonctionnelles - Gestion du cercle de soins",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_fonctionnelles_cercle_soins_v1.0.pdf",
         "version": "1.0"
@@ -1175,7 +1175,7 @@
         "etag": "\"14445c-5cb4fac8e0e5f\"",
         "family": "Service",
         "size": "1328220",
-        "status": "stable",
+        "status": null,
         "title": "Concertation : specifications fonctionnelles partage de documents de sant\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_fonctionnelles_partage_documents_sante_v1.0.c_0.pdf",
         "version": "1.0.C"
@@ -1189,7 +1189,7 @@
         "etag": "\"11abcd-5cb4fafe451b6\"",
         "family": "Service",
         "size": "1158093",
-        "status": "stable",
+        "status": "\u200bValid\u00e9",
         "title": "CISIS TEC SPECIFICATIONS FONCTIONNELLES PARTAGE DOCUMENTS SANTE V1.0",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_fonctionnelles_partage_documents_sante_v1.0_0.pdf",
         "version": "\u200b1.0"
@@ -1203,7 +1203,7 @@
         "etag": "\"1ad082-5c4baf771ecd3\"",
         "family": "Service",
         "size": "1757314",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CISIS TEC SPECIFICATIONS TECHNIQUES GESTION AGENDAS PARTAGES V1.1",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques-gestion_agendas_partages_v1.1.pdf",
         "version": "1.1"
@@ -1217,7 +1217,7 @@
         "etag": "\"e950b-5c4baf46d2cc8\"",
         "family": "Service",
         "size": "955659",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "CISIS TEC SPECIFICATIONS TECHNIQUES CAHIER LIAISON V2.1",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_cahier_liaison_v2.1.pdf",
         "version": "2.1"
@@ -1231,7 +1231,7 @@
         "etag": "\"16bdf0-5cd4ae53ebb9b\"",
         "family": "Service",
         "size": "1490416",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Sp\u00e9cifications techniques - gestion du cercle de soins",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_gestion_cercle_soins_v1.0.pdf",
         "version": "1.0"
@@ -1245,7 +1245,7 @@
         "etag": "\"281bc5-5ceb6287ef343\"",
         "family": "Service",
         "size": "2628549",
-        "status": "stable",
+        "status": null,
         "title": "Concertation : specifications techniques partage de documents de sant\u00e9",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/cisis-tec_specifications_techniques_partage_documents_sante_mobilite_v2.0.c.pdf",
         "version": "2.0.C"
@@ -1259,7 +1259,7 @@
         "etag": "\"1bfa9f2-5d229524282d8\"",
         "family": "M\u00e9tier",
         "size": "29338098",
-        "status": "stable",
+        "status": "Valid\u00e9",
         "title": "Outil de v\u00e9rification des documents CDA version 2.38Une version de l\u2019outil de v\u00e9rification de la conformit\u00e9 des fichiers aux format CDA R2 permet de v\u00e9rifier la conformit\u00e9 des documents au format CDA R2 selon plusieurs crit\u00e8res :\r\n\u2022\tV\u00e9rification de la conformit\u00e9 CDA,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 de l\u2019en-t\u00eate selon les sp\u00e9cifications fran\u00e7aises (Volet Structuration minimale des documents m\u00e9dicaux),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications internationales IHE,<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 du corps (sections, entr\u00e9es et jeux de valeurs) selon les sp\u00e9cifications fran\u00e7aises des sections et entr\u00e9es IHE (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification de la conformit\u00e9 des sections et entr\u00e9es sp\u00e9cifiques cr\u00e9\u00e9es par l\u2019ANS pour les volets fran\u00e7ais (Volet Mod\u00e8les de contenus CDA),<br>\r\n\u2022\tV\u00e9rification des codes de certaines terminologies.",
         "url": "https://esante.gouv.fr//sites/default/files/media_entity/documents/testContenuCDA_20211202_v2.38.zip",
         "version": "2.38"
