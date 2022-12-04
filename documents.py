@@ -67,58 +67,68 @@ class DocumentMap():
                             doc_family = prevtag["data-title"]
                             doc_category = prevtag.string
 
-                        doc_category_title = cell.a.string
-                        doc_category_url = cell.a["href"]
+                        doc_category_title = 'UKN'
+                        doc_category_url = 'UKN'
+
+                        if cell.a is not None:
+                            doc_category_title = cell.a.string
+                            doc_category_url = cell.a["href"]
+                        else:
+                            self.logger.warning(f'Erreur avec les donnnees {cell}')
+
                         self.logger.debug(f'>>> Check {doc_category_url}')
                         if not doc_category_url.startswith('http'):
                             doc_category_url = f'{ESANTE_GOUV_URL.strip("/")}{doc_category_url}'
 
-                        reqsubpage = http.get(doc_category_url)
-                        if reqsubpage.status_code == 200:
-                            soup_subpage = BeautifulSoup(reqsubpage.text, "lxml")
-                            for tr2 in soup_subpage.find_all("tr"):
-                                for current_a in tr2.find_all("a"):
-                                    # Fichier  .pdf, .zip, .xlsx
-                                    if re.match('.*[.](pdf|xlsx|zip)$', current_a["href"]):
-                                        doc_url = f'{ESANTE_GOUV_URL.strip("/")}/{current_a["href"]}'
-                                        self.logger.debug(f"  href = {doc_url}")
-                                        res_head = http.head(doc_url)
-                                        doc_etag, doc_size, doc_status, doc_pub, doc_version = None, None, None, None, None
-                                        if res_head.status_code == 200:
-                                            doc_etag = res_head.headers['Etag']
-                                            doc_size = res_head.headers['Content-Length']
+                        if doc_category_url != 'UKN':
+                            reqsubpage = http.get(doc_category_url)
+                            if reqsubpage.status_code == 200:
+                                soup_subpage = BeautifulSoup(reqsubpage.text, "lxml")
+                                for tr2 in soup_subpage.find_all("tr"):
+                                    for current_a in tr2.find_all("a"):
+                                        # Fichier  .pdf, .zip, .xlsx
+                                        if re.match('.*[.](pdf|xlsx|zip)$', current_a["href"]):
+                                            doc_url = f'{ESANTE_GOUV_URL.strip("/")}/{current_a["href"]}'
+                                            self.logger.debug(f"  href = {doc_url}")
+                                            res_head = http.head(doc_url)
+                                            doc_etag, doc_size, doc_status, doc_pub, doc_version = None, None, None, None, None
+                                            if res_head.status_code == 200:
+                                                doc_etag = res_head.headers['Etag']
+                                                doc_size = res_head.headers['Content-Length']
 
-                                        try:
-                                            doc_status = ''.join(tr2.find('td', {'data-title': 'Statut'}).stripped_strings)
-                                        except AttributeError:
-                                            self.logger.debug(f"{doc_url} - aucun statut sur le document")
+                                            try:
+                                                doc_status = ''.join(tr2.find('td', {'data-title': 'Statut'}).stripped_strings)
+                                            except AttributeError:
+                                                self.logger.debug(f"{doc_url} - aucun statut sur le document")
 
-                                        try:
-                                            doc_version = ''.join(
-                                                tr2.find('td', {'data-title': 'Version'}).stripped_strings)
-                                        except AttributeError:
-                                            self.logger.info(f"{doc_url} - aucune date sur le document")
-                                        try:
-                                            doc_pub = ''.join(
-                                                tr2.find('td', {'data-title': 'Publication'}).stripped_strings)
-                                        except AttributeError:
-                                            self.logger.debug(f"{doc_url} - aucune date sur le document")
+                                            try:
+                                                doc_version = ''.join(
+                                                    tr2.find('td', {'data-title': 'Version'}).stripped_strings)
+                                            except AttributeError:
+                                                self.logger.info(f"{doc_url} - aucune date sur le document")
+                                            try:
+                                                doc_pub = ''.join(
+                                                    tr2.find('td', {'data-title': 'Publication'}).stripped_strings)
+                                            except AttributeError:
+                                                self.logger.debug(f"{doc_url} - aucune date sur le document")
 
-                                        key = doc_url.split('/')[-1]
-                                        self.documents[key] = {"url": doc_url,
-                                                               "category_url": doc_category_url,
-                                                               "category_title": doc_category_title,
-                                                               "category": doc_category,
-                                                               "family": doc_family,
-                                                               "chapter": chapter,
-                                                               "etag": doc_etag,
-                                                               "size": doc_size,
-                                                               "title": ''.join(current_a.stripped_strings),
-                                                               "status": doc_status,
-                                                               "date": doc_pub,
-                                                               "version": doc_version}
-                                    else:
-                                        self.logger.info(f"Lien non pdf : href [{current_a['href']}]")
+                                            key = doc_url.split('/')[-1]
+                                            self.documents[key] = {"url": doc_url,
+                                                                   "category_url": doc_category_url,
+                                                                   "category_title": doc_category_title,
+                                                                   "category": doc_category,
+                                                                   "family": doc_family,
+                                                                   "chapter": chapter,
+                                                                   "etag": doc_etag,
+                                                                   "size": doc_size,
+                                                                   "title": ''.join(current_a.stripped_strings),
+                                                                   "status": doc_status,
+                                                                   "date": doc_pub,
+                                                                   "version": doc_version}
+                                        else:
+                                            self.logger.info(f"Lien non pdf : href [{current_a['href']}]")
+                        else:
+                            self.logger.warning(f'URL invalide : {cell}')
         else:
             self.logger.error(f"Error {req.status_code}")
 
