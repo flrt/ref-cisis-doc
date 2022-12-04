@@ -77,7 +77,7 @@ class DocumentMap():
                             self.logger.warning(f'Erreur avec les donnnees {cell}')
 
                         self.logger.debug(f'>>> Check {doc_category_url}')
-                        if not doc_category_url.startswith('http'):
+                        if not doc_category_url.startswith('http') and doc_category_url != 'UKN':
                             doc_category_url = f'{ESANTE_GOUV_URL.strip("/")}{doc_category_url}'
 
                         if doc_category_url != 'UKN':
